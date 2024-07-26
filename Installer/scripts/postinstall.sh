@@ -70,6 +70,19 @@ if [ -f "$INSTALLER_TEMP/force_io80211family" ]; then
     $PLIST_BUDDY -c "Add :Kernel:Force:0:PlistPath string Contents/Info.plist" "$NEW_CONFIG"
 fi
 
+if [ -f "$INSTALLER_TEMP/sonoma_wifi_fix" ]; then
+    echo "Fix Sonoma Wifi and Bluetooth by blocking system IOSkywalkingFamily and injecting old ones"
+    $PLIST_BUDDY -c "Add :Kernel:Block array" "$NEW_CONFIG"
+    $PLIST_BUDDY -c "Add :Kernel:Block:0 dict" "$NEW_CONFIG"
+    $PLIST_BUDDY -c "Add :Kernel:Block:0:Arch string Any" "$NEW_CONFIG"
+    $PLIST_BUDDY -c "Add :Kernel:Block:0:Enabled bool true" "$NEW_CONFIG"
+    $PLIST_BUDDY -c "Add :Kernel:Block:0:Identifier string com.apple.iokit.IOSkywalkFamily" "$NEW_CONFIG"
+    $PLIST_BUDDY -c "Add :Kernel:Block:0:MinKernel string 23.0.0" "$NEW_CONFIG"
+    $PLIST_BUDDY -c "Add :Kernel:Block:0:Strategy string Exclude" "$NEW_CONFIG"
+    rm -rf "$INSTALLER_TEMP/security" #secureboot should be disabled
+    $PLIST_BUDDY -c "Add :NVRAM:Add:7C436110-AB2A-4BBB-A880-FE41995C9F82:csr-active-config integer 50855936" "$NEW_CONFIG" #0x03080000
+fi
+
 if [ -f "$INSTALLER_TEMP/notrim" ]; then
     echo "Disabling TRIM on boot"
     $PLIST_BUDDY -c "Add :Kernel:Quirks:SetApfsTrimTimeout integer 0" "$NEW_CONFIG"

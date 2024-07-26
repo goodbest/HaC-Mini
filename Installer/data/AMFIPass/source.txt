@@ -1,0 +1,2 @@
+https://github.com/dortania/OpenCore-Legacy-Patcher/raw/1.5.0/payloads/Kexts/Acidanthera/AMFIPass-v1.4.0-RELEASE.zip
+562237a525cf8d755b564a70586c562e6846f5ec9dcc189e30796031af0ffffb
