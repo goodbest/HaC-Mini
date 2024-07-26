@@ -1,2 +1,2 @@
-https://github.com/goodbest/HaC-Mini/releases/download/v2.9/IntelBluetoothFirmware-2.3.0-RELEASE.zip
-8e7330a91b4a217bfed877545f9af9f1d1fe6a07f054927cac3a994098baeea6
+https://github.com/OpenIntelWireless/IntelBluetoothFirmware/releases/download/v2.4.0/IntelBluetooth-v2.4.0.zip
+78418daa11f620012fc53ba68cbd643c2642a45f2f96c594fd01aaf2bc68fe2b
