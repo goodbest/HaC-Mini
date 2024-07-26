@@ -10808,254 +10808,6 @@
 																	<key>BUNDLE_POSTINSTALL_PATH</key>
 																	<dict>
 																		<key>PATH_TYPE</key>
-																		<integer>1</integer>
-																	</dict>
-																	<key>BUNDLE_PREINSTALL_PATH</key>
-																	<dict>
-																		<key>PATH_TYPE</key>
-																		<integer>1</integer>
-																	</dict>
-																	<key>CHILDREN</key>
-																	<array/>
-																	<key>GID</key>
-																	<integer>0</integer>
-																	<key>PATH</key>
-																	<string>data/OpenIntelWireless_BigSur/AirportItlwm.kext</string>
-																	<key>PATH_TYPE</key>
-																	<integer>1</integer>
-																	<key>PAYLOAD_FILENAME</key>
-																	<string>AirportItlwm_BigSur.kext</string>
-																	<key>PERMISSIONS</key>
-																	<integer>493</integer>
-																	<key>TYPE</key>
-																	<integer>3</integer>
-																	<key>UID</key>
-																	<integer>0</integer>
-																</dict>
-																<dict>
-																	<key>CHILDREN</key>
-																	<array/>
-																	<key>GID</key>
-																	<integer>0</integer>
-																	<key>PATH</key>
-																	<string>data/OpenIntelWireless_BigSur/AirportItlwm_BigSur.kext.MaxKernel.txt</string>
-																	<key>PATH_TYPE</key>
-																	<integer>1</integer>
-																	<key>PERMISSIONS</key>
-																	<integer>420</integer>
-																	<key>TYPE</key>
-																	<integer>3</integer>
-																	<key>UID</key>
-																	<integer>0</integer>
-																</dict>
-																<dict>
-																	<key>CHILDREN</key>
-																	<array/>
-																	<key>GID</key>
-																	<integer>0</integer>
-																	<key>PATH</key>
-																	<string>data/OpenIntelWireless_BigSur/AirportItlwm_BigSur.kext.MinKernel.txt</string>
-																	<key>PATH_TYPE</key>
-																	<integer>1</integer>
-																	<key>PERMISSIONS</key>
-																	<integer>420</integer>
-																	<key>TYPE</key>
-																	<integer>3</integer>
-																	<key>UID</key>
-																	<integer>0</integer>
-																</dict>
-																<dict>
-																	<key>BUNDLE_CAN_DOWNGRADE</key>
-																	<false/>
-																	<key>BUNDLE_POSTINSTALL_PATH</key>
-																	<dict>
-																		<key>PATH_TYPE</key>
-																		<integer>1</integer>
-																	</dict>
-																	<key>BUNDLE_PREINSTALL_PATH</key>
-																	<dict>
-																		<key>PATH_TYPE</key>
-																		<integer>1</integer>
-																	</dict>
-																	<key>CHILDREN</key>
-																	<array/>
-																	<key>GID</key>
-																	<integer>0</integer>
-																	<key>PATH</key>
-																	<string>data/OpenIntelWireless_Catalina/AirportItlwm.kext</string>
-																	<key>PATH_TYPE</key>
-																	<integer>1</integer>
-																	<key>PAYLOAD_FILENAME</key>
-																	<string>AirportItlwm_Catalina.kext</string>
-																	<key>PERMISSIONS</key>
-																	<integer>493</integer>
-																	<key>TYPE</key>
-																	<integer>3</integer>
-																	<key>UID</key>
-																	<integer>0</integer>
-																</dict>
-																<dict>
-																	<key>CHILDREN</key>
-																	<array/>
-																	<key>GID</key>
-																	<integer>0</integer>
-																	<key>PATH</key>
-																	<string>data/OpenIntelWireless_Catalina/AirportItlwm_Catalina.kext.MaxKernel.txt</string>
-																	<key>PATH_TYPE</key>
-																	<integer>1</integer>
-																	<key>PERMISSIONS</key>
-																	<integer>420</integer>
-																	<key>TYPE</key>
-																	<integer>3</integer>
-																	<key>UID</key>
-																	<integer>0</integer>
-																</dict>
-																<dict>
-																	<key>CHILDREN</key>
-																	<array/>
-																	<key>GID</key>
-																	<integer>0</integer>
-																	<key>PATH</key>
-																	<string>data/OpenIntelWireless_Catalina/AirportItlwm_Catalina.kext.MinKernel.txt</string>
-																	<key>PATH_TYPE</key>
-																	<integer>1</integer>
-																	<key>PERMISSIONS</key>
-																	<integer>420</integer>
-																	<key>TYPE</key>
-																	<integer>3</integer>
-																	<key>UID</key>
-																	<integer>0</integer>
-																</dict>
-																<dict>
-																	<key>BUNDLE_CAN_DOWNGRADE</key>
-																	<false/>
-																	<key>BUNDLE_POSTINSTALL_PATH</key>
-																	<dict>
-																		<key>PATH_TYPE</key>
-																		<integer>1</integer>
-																	</dict>
-																	<key>BUNDLE_PREINSTALL_PATH</key>
-																	<dict>
-																		<key>PATH_TYPE</key>
-																		<integer>1</integer>
-																	</dict>
-																	<key>CHILDREN</key>
-																	<array/>
-																	<key>GID</key>
-																	<integer>0</integer>
-																	<key>PATH</key>
-																	<string>data/OpenIntelWireless_Mojave/AirportItlwm.kext</string>
-																	<key>PATH_TYPE</key>
-																	<integer>1</integer>
-																	<key>PAYLOAD_FILENAME</key>
-																	<string>AirportItlwm_Mojave.kext</string>
-																	<key>PERMISSIONS</key>
-																	<integer>493</integer>
-																	<key>TYPE</key>
-																	<integer>3</integer>
-																	<key>UID</key>
-																	<integer>0</integer>
-																</dict>
-																<dict>
-																	<key>CHILDREN</key>
-																	<array/>
-																	<key>GID</key>
-																	<integer>0</integer>
-																	<key>PATH</key>
-																	<string>data/OpenIntelWireless_Mojave/AirportItlwm_Mojave.kext.MaxKernel.txt</string>
-																	<key>PATH_TYPE</key>
-																	<integer>1</integer>
-																	<key>PERMISSIONS</key>
-																	<integer>420</integer>
-																	<key>TYPE</key>
-																	<integer>3</integer>
-																	<key>UID</key>
-																	<integer>0</integer>
-																</dict>
-																<dict>
-																	<key>CHILDREN</key>
-																	<array/>
-																	<key>GID</key>
-																	<integer>0</integer>
-																	<key>PATH</key>
-																	<string>data/OpenIntelWireless_Mojave/AirportItlwm_Mojave.kext.MinKernel.txt</string>
-																	<key>PATH_TYPE</key>
-																	<integer>1</integer>
-																	<key>PERMISSIONS</key>
-																	<integer>420</integer>
-																	<key>TYPE</key>
-																	<integer>3</integer>
-																	<key>UID</key>
-																	<integer>0</integer>
-																</dict>
-																<dict>
-																	<key>BUNDLE_CAN_DOWNGRADE</key>
-																	<false/>
-																	<key>BUNDLE_POSTINSTALL_PATH</key>
-																	<dict>
-																		<key>PATH_TYPE</key>
-																		<integer>1</integer>
-																	</dict>
-																	<key>BUNDLE_PREINSTALL_PATH</key>
-																	<dict>
-																		<key>PATH_TYPE</key>
-																		<integer>1</integer>
-																	</dict>
-																	<key>CHILDREN</key>
-																	<array/>
-																	<key>GID</key>
-																	<integer>0</integer>
-																	<key>PATH</key>
-																	<string>data/OpenIntelWireless_Monterey/AirportItlwm.kext</string>
-																	<key>PATH_TYPE</key>
-																	<integer>1</integer>
-																	<key>PAYLOAD_FILENAME</key>
-																	<string>AirportItlwm_Monterey.kext</string>
-																	<key>PERMISSIONS</key>
-																	<integer>493</integer>
-																	<key>TYPE</key>
-																	<integer>3</integer>
-																	<key>UID</key>
-																	<integer>0</integer>
-																</dict>
-																<dict>
-																	<key>CHILDREN</key>
-																	<array/>
-																	<key>GID</key>
-																	<integer>0</integer>
-																	<key>PATH</key>
-																	<string>data/OpenIntelWireless_Monterey/AirportItlwm_Monterey.kext.MaxKernel.txt</string>
-																	<key>PATH_TYPE</key>
-																	<integer>1</integer>
-																	<key>PERMISSIONS</key>
-																	<integer>420</integer>
-																	<key>TYPE</key>
-																	<integer>3</integer>
-																	<key>UID</key>
-																	<integer>0</integer>
-																</dict>
-																<dict>
-																	<key>CHILDREN</key>
-																	<array/>
-																	<key>GID</key>
-																	<integer>0</integer>
-																	<key>PATH</key>
-																	<string>data/OpenIntelWireless_Monterey/AirportItlwm_Monterey.kext.MinKernel.txt</string>
-																	<key>PATH_TYPE</key>
-																	<integer>1</integer>
-																	<key>PERMISSIONS</key>
-																	<integer>420</integer>
-																	<key>TYPE</key>
-																	<integer>3</integer>
-																	<key>UID</key>
-																	<integer>0</integer>
-																</dict>
-																<dict>
-																	<key>BUNDLE_CAN_DOWNGRADE</key>
-																	<false/>
-																	<key>BUNDLE_POSTINSTALL_PATH</key>
-																	<dict>
-																		<key>PATH_TYPE</key>
 																		<integer>0</integer>
 																	</dict>
 																	<key>BUNDLE_PREINSTALL_PATH</key>
@@ -11068,11 +10820,9 @@
 																	<key>GID</key>
 																	<integer>0</integer>
 																	<key>PATH</key>
-																	<string>data/OpenIntelWireless_Ventura/AirportItlwm.kext</string>
+																	<string>data/AirportItlwm_BigSur/AirportItlwm_BigSur.kext</string>
 																	<key>PATH_TYPE</key>
 																	<integer>1</integer>
-																	<key>PAYLOAD_FILENAME</key>
-																	<string>AirportItlwm_Ventura.kext</string>
 																	<key>PERMISSIONS</key>
 																	<integer>493</integer>
 																	<key>TYPE</key>
@@ -11086,7 +10836,7 @@
 																	<key>GID</key>
 																	<integer>0</integer>
 																	<key>PATH</key>
-																	<string>data/OpenIntelWireless_Ventura/AirportItlwm_Ventura.kext.MaxKernel.txt</string>
+																	<string>data/AirportItlwm_BigSur/AirportItlwm_BigSur.kext.MaxKernel.txt</string>
 																	<key>PATH_TYPE</key>
 																	<integer>1</integer>
 																	<key>PERMISSIONS</key>
@@ -11102,7 +10852,307 @@
 																	<key>GID</key>
 																	<integer>0</integer>
 																	<key>PATH</key>
-																	<string>data/OpenIntelWireless_Ventura/AirportItlwm_Ventura.kext.MinKernel.txt</string>
+																	<string>data/AirportItlwm_BigSur/AirportItlwm_BigSur.kext.MinKernel.txt</string>
+																	<key>PATH_TYPE</key>
+																	<integer>1</integer>
+																	<key>PERMISSIONS</key>
+																	<integer>420</integer>
+																	<key>TYPE</key>
+																	<integer>3</integer>
+																	<key>UID</key>
+																	<integer>0</integer>
+																</dict>
+																<dict>
+																	<key>BUNDLE_CAN_DOWNGRADE</key>
+																	<false/>
+																	<key>CHILDREN</key>
+																	<array/>
+																	<key>GID</key>
+																	<integer>0</integer>
+																	<key>PATH</key>
+																	<string>data/AirportItlwm_Catalina/AirportItlwm_Catalina.kext</string>
+																	<key>PATH_TYPE</key>
+																	<integer>1</integer>
+																	<key>PERMISSIONS</key>
+																	<integer>493</integer>
+																	<key>TYPE</key>
+																	<integer>3</integer>
+																	<key>UID</key>
+																	<integer>0</integer>
+																</dict>
+																<dict>
+																	<key>CHILDREN</key>
+																	<array/>
+																	<key>GID</key>
+																	<integer>0</integer>
+																	<key>PATH</key>
+																	<string>data/AirportItlwm_Catalina/AirportItlwm_Catalina.kext.MaxKernel.txt</string>
+																	<key>PATH_TYPE</key>
+																	<integer>1</integer>
+																	<key>PERMISSIONS</key>
+																	<integer>420</integer>
+																	<key>TYPE</key>
+																	<integer>3</integer>
+																	<key>UID</key>
+																	<integer>0</integer>
+																</dict>
+																<dict>
+																	<key>CHILDREN</key>
+																	<array/>
+																	<key>GID</key>
+																	<integer>0</integer>
+																	<key>PATH</key>
+																	<string>data/AirportItlwm_Catalina/AirportItlwm_Catalina.kext.MinKernel.txt</string>
+																	<key>PATH_TYPE</key>
+																	<integer>1</integer>
+																	<key>PERMISSIONS</key>
+																	<integer>420</integer>
+																	<key>TYPE</key>
+																	<integer>3</integer>
+																	<key>UID</key>
+																	<integer>0</integer>
+																</dict>
+																<dict>
+																	<key>BUNDLE_CAN_DOWNGRADE</key>
+																	<false/>
+																	<key>CHILDREN</key>
+																	<array/>
+																	<key>GID</key>
+																	<integer>0</integer>
+																	<key>PATH</key>
+																	<string>data/AirportItlwm_Mojave/AirportItlwm_Mojave.kext</string>
+																	<key>PATH_TYPE</key>
+																	<integer>1</integer>
+																	<key>PERMISSIONS</key>
+																	<integer>493</integer>
+																	<key>TYPE</key>
+																	<integer>3</integer>
+																	<key>UID</key>
+																	<integer>0</integer>
+																</dict>
+																<dict>
+																	<key>CHILDREN</key>
+																	<array/>
+																	<key>GID</key>
+																	<integer>0</integer>
+																	<key>PATH</key>
+																	<string>data/AirportItlwm_Mojave/AirportItlwm_Mojave.kext.MaxKernel.txt</string>
+																	<key>PATH_TYPE</key>
+																	<integer>1</integer>
+																	<key>PERMISSIONS</key>
+																	<integer>420</integer>
+																	<key>TYPE</key>
+																	<integer>3</integer>
+																	<key>UID</key>
+																	<integer>0</integer>
+																</dict>
+																<dict>
+																	<key>CHILDREN</key>
+																	<array/>
+																	<key>GID</key>
+																	<integer>0</integer>
+																	<key>PATH</key>
+																	<string>data/AirportItlwm_Mojave/AirportItlwm_Mojave.kext.MinKernel.txt</string>
+																	<key>PATH_TYPE</key>
+																	<integer>1</integer>
+																	<key>PERMISSIONS</key>
+																	<integer>420</integer>
+																	<key>TYPE</key>
+																	<integer>3</integer>
+																	<key>UID</key>
+																	<integer>0</integer>
+																</dict>
+																<dict>
+																	<key>BUNDLE_CAN_DOWNGRADE</key>
+																	<false/>
+																	<key>CHILDREN</key>
+																	<array/>
+																	<key>GID</key>
+																	<integer>0</integer>
+																	<key>PATH</key>
+																	<string>data/AirportItlwm_Monterey/AirportItlwm_Monterey.kext</string>
+																	<key>PATH_TYPE</key>
+																	<integer>1</integer>
+																	<key>PERMISSIONS</key>
+																	<integer>493</integer>
+																	<key>TYPE</key>
+																	<integer>3</integer>
+																	<key>UID</key>
+																	<integer>0</integer>
+																</dict>
+																<dict>
+																	<key>CHILDREN</key>
+																	<array/>
+																	<key>GID</key>
+																	<integer>0</integer>
+																	<key>PATH</key>
+																	<string>data/AirportItlwm_Monterey/AirportItlwm_Monterey.kext.MaxKernel.txt</string>
+																	<key>PATH_TYPE</key>
+																	<integer>1</integer>
+																	<key>PERMISSIONS</key>
+																	<integer>420</integer>
+																	<key>TYPE</key>
+																	<integer>3</integer>
+																	<key>UID</key>
+																	<integer>0</integer>
+																</dict>
+																<dict>
+																	<key>CHILDREN</key>
+																	<array/>
+																	<key>GID</key>
+																	<integer>0</integer>
+																	<key>PATH</key>
+																	<string>data/AirportItlwm_Monterey/AirportItlwm_Monterey.kext.MinKernel.txt</string>
+																	<key>PATH_TYPE</key>
+																	<integer>1</integer>
+																	<key>PERMISSIONS</key>
+																	<integer>420</integer>
+																	<key>TYPE</key>
+																	<integer>3</integer>
+																	<key>UID</key>
+																	<integer>0</integer>
+																</dict>
+																<dict>
+																	<key>BUNDLE_CAN_DOWNGRADE</key>
+																	<false/>
+																	<key>CHILDREN</key>
+																	<array/>
+																	<key>GID</key>
+																	<integer>0</integer>
+																	<key>PATH</key>
+																	<string>data/AirportItlwm_Sonoma140/AirportItlwm_Sonoma140.kext</string>
+																	<key>PATH_TYPE</key>
+																	<integer>1</integer>
+																	<key>PERMISSIONS</key>
+																	<integer>493</integer>
+																	<key>TYPE</key>
+																	<integer>3</integer>
+																	<key>UID</key>
+																	<integer>0</integer>
+																</dict>
+																<dict>
+																	<key>CHILDREN</key>
+																	<array/>
+																	<key>GID</key>
+																	<integer>0</integer>
+																	<key>PATH</key>
+																	<string>data/AirportItlwm_Sonoma140/AirportItlwm_Sonoma140.kext.MaxKernel.txt</string>
+																	<key>PATH_TYPE</key>
+																	<integer>1</integer>
+																	<key>PERMISSIONS</key>
+																	<integer>420</integer>
+																	<key>TYPE</key>
+																	<integer>3</integer>
+																	<key>UID</key>
+																	<integer>0</integer>
+																</dict>
+																<dict>
+																	<key>CHILDREN</key>
+																	<array/>
+																	<key>GID</key>
+																	<integer>0</integer>
+																	<key>PATH</key>
+																	<string>data/AirportItlwm_Sonoma140/AirportItlwm_Sonoma140.kext.MinKernel.txt</string>
+																	<key>PATH_TYPE</key>
+																	<integer>1</integer>
+																	<key>PERMISSIONS</key>
+																	<integer>420</integer>
+																	<key>TYPE</key>
+																	<integer>3</integer>
+																	<key>UID</key>
+																	<integer>0</integer>
+																</dict>
+																<dict>
+																	<key>BUNDLE_CAN_DOWNGRADE</key>
+																	<false/>
+																	<key>CHILDREN</key>
+																	<array/>
+																	<key>GID</key>
+																	<integer>0</integer>
+																	<key>PATH</key>
+																	<string>data/AirportItlwm_Sonoma144/AirportItlwm_Sonoma144.kext</string>
+																	<key>PATH_TYPE</key>
+																	<integer>1</integer>
+																	<key>PERMISSIONS</key>
+																	<integer>493</integer>
+																	<key>TYPE</key>
+																	<integer>3</integer>
+																	<key>UID</key>
+																	<integer>0</integer>
+																</dict>
+																<dict>
+																	<key>CHILDREN</key>
+																	<array/>
+																	<key>GID</key>
+																	<integer>0</integer>
+																	<key>PATH</key>
+																	<string>data/AirportItlwm_Sonoma144/AirportItlwm_Sonoma144.kext.MaxKernel.txt</string>
+																	<key>PATH_TYPE</key>
+																	<integer>1</integer>
+																	<key>PERMISSIONS</key>
+																	<integer>420</integer>
+																	<key>TYPE</key>
+																	<integer>3</integer>
+																	<key>UID</key>
+																	<integer>0</integer>
+																</dict>
+																<dict>
+																	<key>CHILDREN</key>
+																	<array/>
+																	<key>GID</key>
+																	<integer>0</integer>
+																	<key>PATH</key>
+																	<string>data/AirportItlwm_Sonoma144/AirportItlwm_Sonoma144.kext.MinKernel.txt</string>
+																	<key>PATH_TYPE</key>
+																	<integer>1</integer>
+																	<key>PERMISSIONS</key>
+																	<integer>420</integer>
+																	<key>TYPE</key>
+																	<integer>3</integer>
+																	<key>UID</key>
+																	<integer>0</integer>
+																</dict>
+																<dict>
+																	<key>BUNDLE_CAN_DOWNGRADE</key>
+																	<false/>
+																	<key>CHILDREN</key>
+																	<array/>
+																	<key>GID</key>
+																	<integer>0</integer>
+																	<key>PATH</key>
+																	<string>data/AirportItlwm_Ventura/AirportItlwm_Ventura.kext</string>
+																	<key>PATH_TYPE</key>
+																	<integer>1</integer>
+																	<key>PERMISSIONS</key>
+																	<integer>493</integer>
+																	<key>TYPE</key>
+																	<integer>3</integer>
+																	<key>UID</key>
+																	<integer>0</integer>
+																</dict>
+																<dict>
+																	<key>CHILDREN</key>
+																	<array/>
+																	<key>GID</key>
+																	<integer>0</integer>
+																	<key>PATH</key>
+																	<string>data/AirportItlwm_Ventura/AirportItlwm_Ventura.kext.MaxKernel.txt</string>
+																	<key>PATH_TYPE</key>
+																	<integer>1</integer>
+																	<key>PERMISSIONS</key>
+																	<integer>420</integer>
+																	<key>TYPE</key>
+																	<integer>3</integer>
+																	<key>UID</key>
+																	<integer>0</integer>
+																</dict>
+																<dict>
+																	<key>CHILDREN</key>
+																	<array/>
+																	<key>GID</key>
+																	<integer>0</integer>
+																	<key>PATH</key>
+																	<string>data/AirportItlwm_Ventura/AirportItlwm_Ventura.kext.MinKernel.txt</string>
 																	<key>PATH_TYPE</key>
 																	<integer>1</integer>
 																	<key>PERMISSIONS</key>
@@ -15857,11 +15907,11 @@ https://osy.gitbook.io/hac-mini-guide/details/thunderbolt-3-fix-part-3#compariso
 					</dict>
 					<dict>
 						<key>LANGUAGE</key>
-						<string>German</string>
+						<string>Simplified Chinese</string>
 						<key>VALUE</key>
 						<dict>
 							<key>PATH</key>
-							<string>languages/de-de/introduction.rtfd</string>
+							<string>languages/zh-cn/introduction.rtfd</string>
 							<key>PATH_TYPE</key>
 							<integer>1</integer>
 						</dict>
@@ -15879,11 +15929,11 @@ https://osy.gitbook.io/hac-mini-guide/details/thunderbolt-3-fix-part-3#compariso
 					</dict>
 					<dict>
 						<key>LANGUAGE</key>
-						<string>Simplified Chinese</string>
+						<string>German</string>
 						<key>VALUE</key>
 						<dict>
 							<key>PATH</key>
-							<string>languages/zh-cn/introduction.rtfd</string>
+							<string>languages/de-de/introduction.rtfd</string>
 							<key>PATH_TYPE</key>
 							<integer>1</integer>
 						</dict>
@@ -15926,11 +15976,11 @@ https://osy.gitbook.io/hac-mini-guide/details/thunderbolt-3-fix-part-3#compariso
 					</dict>
 					<dict>
 						<key>LANGUAGE</key>
-						<string>German</string>
+						<string>Simplified Chinese</string>
 						<key>VALUE</key>
 						<dict>
 							<key>PATH</key>
-							<string>languages/de-de/readme.rtf</string>
+							<string>languages/zh-cn/readme.rtf</string>
 							<key>PATH_TYPE</key>
 							<integer>1</integer>
 						</dict>
@@ -15948,11 +15998,11 @@ https://osy.gitbook.io/hac-mini-guide/details/thunderbolt-3-fix-part-3#compariso
 					</dict>
 					<dict>
 						<key>LANGUAGE</key>
-						<string>Simplified Chinese</string>
+						<string>German</string>
 						<key>VALUE</key>
 						<dict>
 							<key>PATH</key>
-							<string>languages/zh-cn/readme.rtf</string>
+							<string>languages/de-de/readme.rtf</string>
 							<key>PATH_TYPE</key>
 							<integer>1</integer>
 						</dict>
@@ -15976,7 +16026,7 @@ https://osy.gitbook.io/hac-mini-guide/details/thunderbolt-3-fix-part-3#compariso
 					</dict>
 					<dict>
 						<key>LANGUAGE</key>
-						<string>German</string>
+						<string>Simplified Chinese</string>
 						<key>VALUE</key>
 						<string>HaC Mini</string>
 					</dict>
@@ -15988,7 +16038,7 @@ https://osy.gitbook.io/hac-mini-guide/details/thunderbolt-3-fix-part-3#compariso
 					</dict>
 					<dict>
 						<key>LANGUAGE</key>
-						<string>Simplified Chinese</string>
+						<string>German</string>
 						<key>VALUE</key>
 						<string>HaC Mini</string>
 					</dict>
