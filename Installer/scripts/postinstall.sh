@@ -80,7 +80,7 @@ if [ -f "$INSTALLER_TEMP/sonoma_wifi_fix" ]; then
     $PLIST_BUDDY -c "Add :Kernel:Block:0:MinKernel string 23.0.0" "$NEW_CONFIG"
     $PLIST_BUDDY -c "Add :Kernel:Block:0:Strategy string Exclude" "$NEW_CONFIG"
     rm -rf "$INSTALLER_TEMP/security" #secureboot should be disabled
-    $PLIST_BUDDY -c "Add :NVRAM:Add:7C436110-AB2A-4BBB-A880-FE41995C9F82:csr-active-config integer 50855936" "$NEW_CONFIG" #0x03080000
+    $PLIST_BUDDY -c "Add :NVRAM:Add:7C436110-AB2A-4BBB-A880-FE41995C9F82:csr-active-config integer 2051" "$NEW_CONFIG" #0x03080000
 fi
 
 if [ -f "$INSTALLER_TEMP/notrim" ]; then
