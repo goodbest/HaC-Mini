@@ -14068,22 +14068,6 @@
 																	<integer>0</integer>
 																</dict>
 																<dict>
-																	<key>CHILDREN</key>
-																	<array/>
-																	<key>GID</key>
-																	<integer>0</integer>
-																	<key>PATH</key>
-																	<string>data/IO80211FamilyLegacy/AirPortBrcmNIC.kext.Priority.txt</string>
-																	<key>PATH_TYPE</key>
-																	<integer>1</integer>
-																	<key>PERMISSIONS</key>
-																	<integer>420</integer>
-																	<key>TYPE</key>
-																	<integer>3</integer>
-																	<key>UID</key>
-																	<integer>0</integer>
-																</dict>
-																<dict>
 																	<key>BUNDLE_CAN_DOWNGRADE</key>
 																	<false/>
 																	<key>BUNDLE_POSTINSTALL_PATH</key>
@@ -16729,11 +16713,11 @@ https://osy.gitbook.io/hac-mini-guide/details/thunderbolt-3-fix-part-3#compariso
 					</dict>
 					<dict>
 						<key>LANGUAGE</key>
-						<string>German</string>
+						<string>Simplified Chinese</string>
 						<key>VALUE</key>
 						<dict>
 							<key>PATH</key>
-							<string>languages/de-de/introduction.rtfd</string>
+							<string>languages/zh-cn/introduction.rtfd</string>
 							<key>PATH_TYPE</key>
 							<integer>1</integer>
 						</dict>
@@ -16751,11 +16735,11 @@ https://osy.gitbook.io/hac-mini-guide/details/thunderbolt-3-fix-part-3#compariso
 					</dict>
 					<dict>
 						<key>LANGUAGE</key>
-						<string>Simplified Chinese</string>
+						<string>German</string>
 						<key>VALUE</key>
 						<dict>
 							<key>PATH</key>
-							<string>languages/zh-cn/introduction.rtfd</string>
+							<string>languages/de-de/introduction.rtfd</string>
 							<key>PATH_TYPE</key>
 							<integer>1</integer>
 						</dict>
@@ -16798,11 +16782,11 @@ https://osy.gitbook.io/hac-mini-guide/details/thunderbolt-3-fix-part-3#compariso
 					</dict>
 					<dict>
 						<key>LANGUAGE</key>
-						<string>German</string>
+						<string>Simplified Chinese</string>
 						<key>VALUE</key>
 						<dict>
 							<key>PATH</key>
-							<string>languages/de-de/readme.rtf</string>
+							<string>languages/zh-cn/readme.rtf</string>
 							<key>PATH_TYPE</key>
 							<integer>1</integer>
 						</dict>
@@ -16820,11 +16804,11 @@ https://osy.gitbook.io/hac-mini-guide/details/thunderbolt-3-fix-part-3#compariso
 					</dict>
 					<dict>
 						<key>LANGUAGE</key>
-						<string>Simplified Chinese</string>
+						<string>German</string>
 						<key>VALUE</key>
 						<dict>
 							<key>PATH</key>
-							<string>languages/zh-cn/readme.rtf</string>
+							<string>languages/de-de/readme.rtf</string>
 							<key>PATH_TYPE</key>
 							<integer>1</integer>
 						</dict>
@@ -16848,7 +16832,7 @@ https://osy.gitbook.io/hac-mini-guide/details/thunderbolt-3-fix-part-3#compariso
 					</dict>
 					<dict>
 						<key>LANGUAGE</key>
-						<string>German</string>
+						<string>Simplified Chinese</string>
 						<key>VALUE</key>
 						<string>HaC Mini</string>
 					</dict>
@@ -16860,7 +16844,7 @@ https://osy.gitbook.io/hac-mini-guide/details/thunderbolt-3-fix-part-3#compariso
 					</dict>
 					<dict>
 						<key>LANGUAGE</key>
-						<string>Simplified Chinese</string>
+						<string>German</string>
 						<key>VALUE</key>
 						<string>HaC Mini</string>
 					</dict>
