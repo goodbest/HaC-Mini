@@ -1,2 +1,2 @@
-https://github.com/goodbest/HaC-Mini/releases/download/v2.9/Polaris22Fixup.zip
-ea83fdf712489baa0453bde915ef87110d1c28c25e4b8cda8b9dee563472e467
+https://github.com/goodbest/Polaris22Fixup/releases/download/v1.3.9/Polaris22Fixup-1.3.9-RELEASE.zip
+2923fe601afb3e5339b6df34e6245023922c76f5f0b1e140766cee9d60131e7c
