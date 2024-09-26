@@ -1,2 +1,2 @@
-https://github.com/dortania/OpenCore-Legacy-Patcher/raw/1.5.0/payloads/Kexts/Wifi/IOSkywalkFamily-v1.1.0.zip
-082856ae2c73e6849f600e240c24b99d208c5198cf6f344130dd318e0a24adff
+https://github.com/dortania/OpenCore-Legacy-Patcher/raw/refs/tags/2.0.1/payloads/Kexts/Wifi/IOSkywalkFamily-v1.2.0.zip
+1e12b7ef42f55b39ea54ada97b46331220668b2c48a28656e9875c5145fe2479
