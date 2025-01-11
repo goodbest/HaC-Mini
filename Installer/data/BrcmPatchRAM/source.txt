@@ -1,2 +1,2 @@
-https://github.com/goodbest/HaC-Mini/releases/download/v2.9.1/BrcmPatchRAM-2.6.9-RELEASE.zip
-d16f6cbe822d31addff1185dff21ca532d195742bedc3e25fba3975c84dae5b0
+https://github.com/acidanthera/BrcmPatchRAM/releases/download/2.6.9/BrcmPatchRAM-2.6.9-RELEASE.zip
+f3637b1f9fe39f790d31087879aadd5578573ee304bea267dd1b1d0343084774

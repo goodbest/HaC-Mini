@@ -1,2 +1,2 @@
-https://github.com/dortania/build-repo/releases/download/IntelBluetoothFirmware-50e971c/IntelBluetoothFirmware-2.5.0-RELEASE.zip
-69c90c246171e5df51e92ea0e00c3d347956cbcdc0f0c73b2b20d27d2f7f8d6c
+https://github.com/dortania/build-repo/releases/download/IntelBluetoothFirmware-01cc180/IntelBluetoothFirmware-2.5.0-RELEASE.zip
+7b7f4208b222f8cf9c47940526460622bba29fbe43258e4f4356d50bb26c3ebb

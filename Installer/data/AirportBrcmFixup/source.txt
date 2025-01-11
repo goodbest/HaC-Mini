@@ -1,2 +1,2 @@
-https://github.com/dortania/build-repo/releases/download/AirportBrcmFixup-c85ca2d/AirportBrcmFixup-2.1.9-RELEASE.zip
-038b811ab61b4684419eabf26132268a75fcd765435d52c62f14a3dffc566de6
+https://github.com/acidanthera/AirportBrcmFixup/releases/download/2.1.9/AirportBrcmFixup-2.1.9-RELEASE.zip
+b212a94cfb5dd0e227b5c331b4ccfe603b351aa81a6a228989f45fef40197b8e
