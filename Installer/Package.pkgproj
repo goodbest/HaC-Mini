@@ -14426,6 +14426,626 @@
 			<key>UUID</key>
 			<string>635CBCE6-D363-4883-B8B9-B33F5B8814FB</string>
 		</dict>
+		<dict>
+			<key>MUST-CLOSE-APPLICATION-ITEMS</key>
+			<array/>
+			<key>MUST-CLOSE-APPLICATIONS</key>
+			<false/>
+			<key>PACKAGE_FILES</key>
+			<dict>
+				<key>DEFAULT_INSTALL_LOCATION</key>
+				<string>/</string>
+				<key>HIERARCHY</key>
+				<dict>
+					<key>CHILDREN</key>
+					<array>
+						<dict>
+							<key>CHILDREN</key>
+							<array/>
+							<key>GID</key>
+							<integer>80</integer>
+							<key>PATH</key>
+							<string>Applications</string>
+							<key>PATH_TYPE</key>
+							<integer>0</integer>
+							<key>PERMISSIONS</key>
+							<integer>509</integer>
+							<key>TYPE</key>
+							<integer>1</integer>
+							<key>UID</key>
+							<integer>0</integer>
+						</dict>
+						<dict>
+							<key>CHILDREN</key>
+							<array>
+								<dict>
+									<key>CHILDREN</key>
+									<array/>
+									<key>GID</key>
+									<integer>80</integer>
+									<key>PATH</key>
+									<string>Application Support</string>
+									<key>PATH_TYPE</key>
+									<integer>0</integer>
+									<key>PERMISSIONS</key>
+									<integer>493</integer>
+									<key>TYPE</key>
+									<integer>1</integer>
+									<key>UID</key>
+									<integer>0</integer>
+								</dict>
+								<dict>
+									<key>CHILDREN</key>
+									<array/>
+									<key>GID</key>
+									<integer>0</integer>
+									<key>PATH</key>
+									<string>Automator</string>
+									<key>PATH_TYPE</key>
+									<integer>0</integer>
+									<key>PERMISSIONS</key>
+									<integer>493</integer>
+									<key>TYPE</key>
+									<integer>1</integer>
+									<key>UID</key>
+									<integer>0</integer>
+								</dict>
+								<dict>
+									<key>CHILDREN</key>
+									<array/>
+									<key>GID</key>
+									<integer>0</integer>
+									<key>PATH</key>
+									<string>Documentation</string>
+									<key>PATH_TYPE</key>
+									<integer>0</integer>
+									<key>PERMISSIONS</key>
+									<integer>493</integer>
+									<key>TYPE</key>
+									<integer>1</integer>
+									<key>UID</key>
+									<integer>0</integer>
+								</dict>
+								<dict>
+									<key>CHILDREN</key>
+									<array/>
+									<key>GID</key>
+									<integer>0</integer>
+									<key>PATH</key>
+									<string>Extensions</string>
+									<key>PATH_TYPE</key>
+									<integer>0</integer>
+									<key>PERMISSIONS</key>
+									<integer>493</integer>
+									<key>TYPE</key>
+									<integer>1</integer>
+									<key>UID</key>
+									<integer>0</integer>
+								</dict>
+								<dict>
+									<key>CHILDREN</key>
+									<array/>
+									<key>GID</key>
+									<integer>0</integer>
+									<key>PATH</key>
+									<string>Filesystems</string>
+									<key>PATH_TYPE</key>
+									<integer>0</integer>
+									<key>PERMISSIONS</key>
+									<integer>493</integer>
+									<key>TYPE</key>
+									<integer>1</integer>
+									<key>UID</key>
+									<integer>0</integer>
+								</dict>
+								<dict>
+									<key>CHILDREN</key>
+									<array/>
+									<key>GID</key>
+									<integer>0</integer>
+									<key>PATH</key>
+									<string>Frameworks</string>
+									<key>PATH_TYPE</key>
+									<integer>0</integer>
+									<key>PERMISSIONS</key>
+									<integer>493</integer>
+									<key>TYPE</key>
+									<integer>1</integer>
+									<key>UID</key>
+									<integer>0</integer>
+								</dict>
+								<dict>
+									<key>CHILDREN</key>
+									<array/>
+									<key>GID</key>
+									<integer>0</integer>
+									<key>PATH</key>
+									<string>Input Methods</string>
+									<key>PATH_TYPE</key>
+									<integer>0</integer>
+									<key>PERMISSIONS</key>
+									<integer>493</integer>
+									<key>TYPE</key>
+									<integer>1</integer>
+									<key>UID</key>
+									<integer>0</integer>
+								</dict>
+								<dict>
+									<key>CHILDREN</key>
+									<array/>
+									<key>GID</key>
+									<integer>0</integer>
+									<key>PATH</key>
+									<string>Internet Plug-Ins</string>
+									<key>PATH_TYPE</key>
+									<integer>0</integer>
+									<key>PERMISSIONS</key>
+									<integer>493</integer>
+									<key>TYPE</key>
+									<integer>1</integer>
+									<key>UID</key>
+									<integer>0</integer>
+								</dict>
+								<dict>
+									<key>CHILDREN</key>
+									<array/>
+									<key>GID</key>
+									<integer>0</integer>
+									<key>PATH</key>
+									<string>LaunchAgents</string>
+									<key>PATH_TYPE</key>
+									<integer>0</integer>
+									<key>PERMISSIONS</key>
+									<integer>493</integer>
+									<key>TYPE</key>
+									<integer>1</integer>
+									<key>UID</key>
+									<integer>0</integer>
+								</dict>
+								<dict>
+									<key>CHILDREN</key>
+									<array/>
+									<key>GID</key>
+									<integer>0</integer>
+									<key>PATH</key>
+									<string>LaunchDaemons</string>
+									<key>PATH_TYPE</key>
+									<integer>0</integer>
+									<key>PERMISSIONS</key>
+									<integer>493</integer>
+									<key>TYPE</key>
+									<integer>1</integer>
+									<key>UID</key>
+									<integer>0</integer>
+								</dict>
+								<dict>
+									<key>CHILDREN</key>
+									<array/>
+									<key>GID</key>
+									<integer>0</integer>
+									<key>PATH</key>
+									<string>PreferencePanes</string>
+									<key>PATH_TYPE</key>
+									<integer>0</integer>
+									<key>PERMISSIONS</key>
+									<integer>493</integer>
+									<key>TYPE</key>
+									<integer>1</integer>
+									<key>UID</key>
+									<integer>0</integer>
+								</dict>
+								<dict>
+									<key>CHILDREN</key>
+									<array/>
+									<key>GID</key>
+									<integer>0</integer>
+									<key>PATH</key>
+									<string>Preferences</string>
+									<key>PATH_TYPE</key>
+									<integer>0</integer>
+									<key>PERMISSIONS</key>
+									<integer>493</integer>
+									<key>TYPE</key>
+									<integer>1</integer>
+									<key>UID</key>
+									<integer>0</integer>
+								</dict>
+								<dict>
+									<key>CHILDREN</key>
+									<array/>
+									<key>GID</key>
+									<integer>80</integer>
+									<key>PATH</key>
+									<string>Printers</string>
+									<key>PATH_TYPE</key>
+									<integer>0</integer>
+									<key>PERMISSIONS</key>
+									<integer>493</integer>
+									<key>TYPE</key>
+									<integer>1</integer>
+									<key>UID</key>
+									<integer>0</integer>
+								</dict>
+								<dict>
+									<key>CHILDREN</key>
+									<array/>
+									<key>GID</key>
+									<integer>0</integer>
+									<key>PATH</key>
+									<string>PrivilegedHelperTools</string>
+									<key>PATH_TYPE</key>
+									<integer>0</integer>
+									<key>PERMISSIONS</key>
+									<integer>1005</integer>
+									<key>TYPE</key>
+									<integer>1</integer>
+									<key>UID</key>
+									<integer>0</integer>
+								</dict>
+								<dict>
+									<key>CHILDREN</key>
+									<array/>
+									<key>GID</key>
+									<integer>0</integer>
+									<key>PATH</key>
+									<string>QuickLook</string>
+									<key>PATH_TYPE</key>
+									<integer>0</integer>
+									<key>PERMISSIONS</key>
+									<integer>493</integer>
+									<key>TYPE</key>
+									<integer>1</integer>
+									<key>UID</key>
+									<integer>0</integer>
+								</dict>
+								<dict>
+									<key>CHILDREN</key>
+									<array/>
+									<key>GID</key>
+									<integer>0</integer>
+									<key>PATH</key>
+									<string>QuickTime</string>
+									<key>PATH_TYPE</key>
+									<integer>0</integer>
+									<key>PERMISSIONS</key>
+									<integer>493</integer>
+									<key>TYPE</key>
+									<integer>1</integer>
+									<key>UID</key>
+									<integer>0</integer>
+								</dict>
+								<dict>
+									<key>CHILDREN</key>
+									<array/>
+									<key>GID</key>
+									<integer>0</integer>
+									<key>PATH</key>
+									<string>Screen Savers</string>
+									<key>PATH_TYPE</key>
+									<integer>0</integer>
+									<key>PERMISSIONS</key>
+									<integer>493</integer>
+									<key>TYPE</key>
+									<integer>1</integer>
+									<key>UID</key>
+									<integer>0</integer>
+								</dict>
+								<dict>
+									<key>CHILDREN</key>
+									<array/>
+									<key>GID</key>
+									<integer>0</integer>
+									<key>PATH</key>
+									<string>Scripts</string>
+									<key>PATH_TYPE</key>
+									<integer>0</integer>
+									<key>PERMISSIONS</key>
+									<integer>493</integer>
+									<key>TYPE</key>
+									<integer>1</integer>
+									<key>UID</key>
+									<integer>0</integer>
+								</dict>
+								<dict>
+									<key>CHILDREN</key>
+									<array/>
+									<key>GID</key>
+									<integer>0</integer>
+									<key>PATH</key>
+									<string>Services</string>
+									<key>PATH_TYPE</key>
+									<integer>0</integer>
+									<key>PERMISSIONS</key>
+									<integer>493</integer>
+									<key>TYPE</key>
+									<integer>1</integer>
+									<key>UID</key>
+									<integer>0</integer>
+								</dict>
+								<dict>
+									<key>CHILDREN</key>
+									<array/>
+									<key>GID</key>
+									<integer>0</integer>
+									<key>PATH</key>
+									<string>Widgets</string>
+									<key>PATH_TYPE</key>
+									<integer>0</integer>
+									<key>PERMISSIONS</key>
+									<integer>493</integer>
+									<key>TYPE</key>
+									<integer>1</integer>
+									<key>UID</key>
+									<integer>0</integer>
+								</dict>
+							</array>
+							<key>GID</key>
+							<integer>0</integer>
+							<key>PATH</key>
+							<string>Library</string>
+							<key>PATH_TYPE</key>
+							<integer>0</integer>
+							<key>PERMISSIONS</key>
+							<integer>493</integer>
+							<key>TYPE</key>
+							<integer>1</integer>
+							<key>UID</key>
+							<integer>0</integer>
+						</dict>
+						<dict>
+							<key>CHILDREN</key>
+							<array>
+								<dict>
+									<key>CHILDREN</key>
+									<array>
+										<dict>
+											<key>CHILDREN</key>
+											<array>
+												<dict>
+													<key>CHILDREN</key>
+													<array>
+														<dict>
+															<key>CHILDREN</key>
+															<array>
+																<dict>
+																	<key>BUNDLE_CAN_DOWNGRADE</key>
+																	<false/>
+																	<key>BUNDLE_POSTINSTALL_PATH</key>
+																	<dict>
+																		<key>PATH_TYPE</key>
+																		<integer>0</integer>
+																	</dict>
+																	<key>BUNDLE_PREINSTALL_PATH</key>
+																	<dict>
+																		<key>PATH_TYPE</key>
+																		<integer>0</integer>
+																	</dict>
+																	<key>CHILDREN</key>
+																	<array/>
+																	<key>GID</key>
+																	<integer>0</integer>
+																	<key>PATH</key>
+																	<string>data/AirportItlwm_Sequoia/AirportItlwm_Sequoia.kext</string>
+																	<key>PATH_TYPE</key>
+																	<integer>1</integer>
+																	<key>PERMISSIONS</key>
+																	<integer>493</integer>
+																	<key>TYPE</key>
+																	<integer>3</integer>
+																	<key>UID</key>
+																	<integer>0</integer>
+																</dict>
+																<dict>
+																	<key>CHILDREN</key>
+																	<array/>
+																	<key>GID</key>
+																	<integer>0</integer>
+																	<key>PATH</key>
+																	<string>data/AirportItlwm_Sequoia/AirportItlwm_Sequoia.kext.MaxKernel.txt</string>
+																	<key>PATH_TYPE</key>
+																	<integer>1</integer>
+																	<key>PERMISSIONS</key>
+																	<integer>420</integer>
+																	<key>TYPE</key>
+																	<integer>3</integer>
+																	<key>UID</key>
+																	<integer>0</integer>
+																</dict>
+																<dict>
+																	<key>CHILDREN</key>
+																	<array/>
+																	<key>GID</key>
+																	<integer>0</integer>
+																	<key>PATH</key>
+																	<string>data/AirportItlwm_Sequoia/AirportItlwm_Sequoia.kext.MinKernel.txt</string>
+																	<key>PATH_TYPE</key>
+																	<integer>1</integer>
+																	<key>PERMISSIONS</key>
+																	<integer>420</integer>
+																	<key>TYPE</key>
+																	<integer>3</integer>
+																	<key>UID</key>
+																	<integer>0</integer>
+																</dict>
+															</array>
+															<key>GID</key>
+															<integer>0</integer>
+															<key>PATH</key>
+															<string>Kexts</string>
+															<key>PATH_TYPE</key>
+															<integer>2</integer>
+															<key>PERMISSIONS</key>
+															<integer>509</integer>
+															<key>TYPE</key>
+															<integer>2</integer>
+															<key>UID</key>
+															<integer>0</integer>
+														</dict>
+													</array>
+													<key>GID</key>
+													<integer>0</integer>
+													<key>PATH</key>
+													<string>OC</string>
+													<key>PATH_TYPE</key>
+													<integer>2</integer>
+													<key>PERMISSIONS</key>
+													<integer>509</integer>
+													<key>TYPE</key>
+													<integer>2</integer>
+													<key>UID</key>
+													<integer>0</integer>
+												</dict>
+											</array>
+											<key>GID</key>
+											<integer>0</integer>
+											<key>PATH</key>
+											<string>EFI</string>
+											<key>PATH_TYPE</key>
+											<integer>2</integer>
+											<key>PERMISSIONS</key>
+											<integer>509</integer>
+											<key>TYPE</key>
+											<integer>2</integer>
+											<key>UID</key>
+											<integer>0</integer>
+										</dict>
+									</array>
+									<key>GID</key>
+									<integer>0</integer>
+									<key>PATH</key>
+									<string>EFIROOTDIR</string>
+									<key>PATH_TYPE</key>
+									<integer>2</integer>
+									<key>PERMISSIONS</key>
+									<integer>509</integer>
+									<key>TYPE</key>
+									<integer>2</integer>
+									<key>UID</key>
+									<integer>0</integer>
+								</dict>
+							</array>
+							<key>GID</key>
+							<integer>0</integer>
+							<key>PATH</key>
+							<string>tmp</string>
+							<key>PATH_TYPE</key>
+							<integer>2</integer>
+							<key>PERMISSIONS</key>
+							<integer>509</integer>
+							<key>TYPE</key>
+							<integer>2</integer>
+							<key>UID</key>
+							<integer>0</integer>
+						</dict>
+						<dict>
+							<key>CHILDREN</key>
+							<array>
+								<dict>
+									<key>CHILDREN</key>
+									<array/>
+									<key>GID</key>
+									<integer>0</integer>
+									<key>PATH</key>
+									<string>Shared</string>
+									<key>PATH_TYPE</key>
+									<integer>0</integer>
+									<key>PERMISSIONS</key>
+									<integer>1023</integer>
+									<key>TYPE</key>
+									<integer>1</integer>
+									<key>UID</key>
+									<integer>0</integer>
+								</dict>
+							</array>
+							<key>GID</key>
+							<integer>80</integer>
+							<key>PATH</key>
+							<string>Users</string>
+							<key>PATH_TYPE</key>
+							<integer>0</integer>
+							<key>PERMISSIONS</key>
+							<integer>493</integer>
+							<key>TYPE</key>
+							<integer>1</integer>
+							<key>UID</key>
+							<integer>0</integer>
+						</dict>
+					</array>
+					<key>GID</key>
+					<integer>0</integer>
+					<key>PATH</key>
+					<string>/</string>
+					<key>PATH_TYPE</key>
+					<integer>0</integer>
+					<key>PERMISSIONS</key>
+					<integer>493</integer>
+					<key>TYPE</key>
+					<integer>1</integer>
+					<key>UID</key>
+					<integer>0</integer>
+				</dict>
+				<key>PAYLOAD_TYPE</key>
+				<integer>0</integer>
+				<key>PRESERVE_EXTENDED_ATTRIBUTES</key>
+				<false/>
+				<key>SHOW_INVISIBLE</key>
+				<false/>
+				<key>SPLIT_FORKS</key>
+				<true/>
+				<key>TREAT_MISSING_FILES_AS_WARNING</key>
+				<false/>
+				<key>VERSION</key>
+				<integer>5</integer>
+			</dict>
+			<key>PACKAGE_SCRIPTS</key>
+			<dict>
+				<key>POSTINSTALL_PATH</key>
+				<dict>
+					<key>PATH_TYPE</key>
+					<integer>1</integer>
+				</dict>
+				<key>PREINSTALL_PATH</key>
+				<dict>
+					<key>PATH</key>
+					<string>scripts/set_intel_sequoia_patch.sh</string>
+					<key>PATH_TYPE</key>
+					<integer>1</integer>
+				</dict>
+				<key>RESOURCES</key>
+				<array/>
+			</dict>
+			<key>PACKAGE_SETTINGS</key>
+			<dict>
+				<key>AUTHENTICATION</key>
+				<integer>1</integer>
+				<key>CONCLUSION_ACTION</key>
+				<integer>0</integer>
+				<key>FOLLOW_SYMBOLIC_LINKS</key>
+				<true/>
+				<key>IDENTIFIER</key>
+				<string>com.osy86.hacmini.intelwireless-sequoia</string>
+				<key>LOCATION</key>
+				<integer>0</integer>
+				<key>NAME</key>
+				<string>IntelWireless-sequoia</string>
+				<key>OVERWRITE_PERMISSIONS</key>
+				<false/>
+				<key>PAYLOAD_SIZE</key>
+				<integer>-1</integer>
+				<key>REFERENCE_PATH</key>
+				<string></string>
+				<key>RELOCATABLE</key>
+				<false/>
+				<key>USE_HFS+_COMPRESSION</key>
+				<false/>
+				<key>VERSION</key>
+				<string>2.0</string>
+			</dict>
+			<key>TYPE</key>
+			<integer>0</integer>
+			<key>UUID</key>
+			<string>DC9036D6-9582-4B36-B34D-E32736AFA651</string>
+		</dict>
 	</array>
 	<key>PROJECT</key>
 	<dict>
@@ -14470,9 +15090,9 @@
 									</dict>
 									<dict>
 										<key>LANGUAGE</key>
-										<string>German</string>
+										<string>Simplified Chinese</string>
 										<key>VALUE</key>
-										<string>OpenCore mit Treibern, Patches und Konfigurationen für NUC Hades Canyon.</string>
+										<string>OpenCore引导程序和为NUC冥王峡谷定制的驱动、补丁和配置。</string>
 									</dict>
 									<dict>
 										<key>LANGUAGE</key>
@@ -14482,9 +15102,9 @@
 									</dict>
 									<dict>
 										<key>LANGUAGE</key>
-										<string>Simplified Chinese</string>
+										<string>German</string>
 										<key>VALUE</key>
-										<string>OpenCore引导程序和为NUC冥王峡谷定制的驱动、补丁和配置。</string>
+										<string>OpenCore mit Treibern, Patches und Konfigurationen für NUC Hades Canyon.</string>
 									</dict>
 								</array>
 								<key>OPTIONS</key>
@@ -14535,9 +15155,9 @@
 									</dict>
 									<dict>
 										<key>LANGUAGE</key>
-										<string>German</string>
+										<string>Simplified Chinese</string>
 										<key>VALUE</key>
-										<string>Nur verfügbar, wenn das Ziel ein OSX-Installationsprogramm ist. Dadurch wird das Installationsprogramm gepatcht, um HaC mini nach der Installation von OSX auf dem Ziel zu installieren. Das Installationsprogramm sollte nur für NUC Hades Canyon verwendet werden. Beachten Sie, dass alle hier ausgewählten benutzerdefinierten Installationsoptionen nur für das Installationsprogramm gelten. Wenn Sie in Ihrer Installation benutzerdefinierte Optionen verwenden möchten, führen Sie diese nach der Installation von OSX auf dem Zielcomputer aus.</string>
+										<string>只在为macOS安装器打补丁时可用。该补丁会使macOS安装器在安装完成之后自动安装HaC Mini。该程序包不应用于除NUC冥王峡谷之外的设备。请注意当这个选项被选中后，所有的自定义安装选项都只会应用于macOS安装器。如果你希望在安装完成的macOS系统中使用这些自定义选项，请在macOS安装完成后再次运行此程序包。</string>
 									</dict>
 									<dict>
 										<key>LANGUAGE</key>
@@ -14547,9 +15167,9 @@
 									</dict>
 									<dict>
 										<key>LANGUAGE</key>
-										<string>Simplified Chinese</string>
+										<string>German</string>
 										<key>VALUE</key>
-										<string>只在为macOS安装器打补丁时可用。该补丁会使macOS安装器在安装完成之后自动安装HaC Mini。该程序包不应用于除NUC冥王峡谷之外的设备。请注意当这个选项被选中后，所有的自定义安装选项都只会应用于macOS安装器。如果你希望在安装完成的macOS系统中使用这些自定义选项，请在macOS安装完成后再次运行此程序包。</string>
+										<string>Nur verfügbar, wenn das Ziel ein OSX-Installationsprogramm ist. Dadurch wird das Installationsprogramm gepatcht, um HaC mini nach der Installation von OSX auf dem Ziel zu installieren. Das Installationsprogramm sollte nur für NUC Hades Canyon verwendet werden. Beachten Sie, dass alle hier ausgewählten benutzerdefinierten Installationsoptionen nur für das Installationsprogramm gelten. Wenn Sie in Ihrer Installation benutzerdefinierte Optionen verwenden möchten, führen Sie diese nach der Installation von OSX auf dem Zielcomputer aus.</string>
 									</dict>
 								</array>
 								<key>OPTIONS</key>
@@ -14609,9 +15229,9 @@
 									</dict>
 									<dict>
 										<key>LANGUAGE</key>
-										<string>German</string>
+										<string>Simplified Chinese</string>
 										<key>VALUE</key>
-										<string>OSX Installer patchen</string>
+										<string>为macOS安装器安装补丁</string>
 									</dict>
 									<dict>
 										<key>LANGUAGE</key>
@@ -14621,9 +15241,9 @@
 									</dict>
 									<dict>
 										<key>LANGUAGE</key>
-										<string>Simplified Chinese</string>
+										<string>German</string>
 										<key>VALUE</key>
-										<string>为macOS安装器安装补丁</string>
+										<string>OSX Installer patchen</string>
 									</dict>
 								</array>
 								<key>TYPE</key>
@@ -14644,9 +15264,9 @@
 									</dict>
 									<dict>
 										<key>LANGUAGE</key>
-										<string>German</string>
+										<string>Simplified Chinese</string>
 										<key>VALUE</key>
-										<string>Wenn diese Option aktiviert ist, wird die vorhandene EFI nach /Library/EFI-Backups kopiert. Andernfalls wird die vorhandene EFI/OC einschließlich aller Konfigurationen, Patches, Treiber usw. gelöscht.</string>
+										<string>如果该选项被选中，本地原有的OpenCore EFI将会被复制到/Library/EFI-Backups中。否则，原有的/EFI/OC和所有的配置、补丁、驱动等将会被删除。</string>
 									</dict>
 									<dict>
 										<key>LANGUAGE</key>
@@ -14656,9 +15276,9 @@
 									</dict>
 									<dict>
 										<key>LANGUAGE</key>
-										<string>Simplified Chinese</string>
+										<string>German</string>
 										<key>VALUE</key>
-										<string>如果该选项被选中，本地原有的OpenCore EFI将会被复制到/Library/EFI-Backups中。否则，原有的/EFI/OC和所有的配置、补丁、驱动等将会被删除。</string>
+										<string>Wenn diese Option aktiviert ist, wird die vorhandene EFI nach /Library/EFI-Backups kopiert. Andernfalls wird die vorhandene EFI/OC einschließlich aller Konfigurationen, Patches, Treiber usw. gelöscht.</string>
 									</dict>
 								</array>
 								<key>OPTIONS</key>
@@ -14680,9 +15300,9 @@
 									</dict>
 									<dict>
 										<key>LANGUAGE</key>
-										<string>German</string>
+										<string>Simplified Chinese</string>
 										<key>VALUE</key>
-										<string>Vorhandene OC EFI sichern</string>
+										<string>备份原有OpenCore EFI</string>
 									</dict>
 									<dict>
 										<key>LANGUAGE</key>
@@ -14692,9 +15312,9 @@
 									</dict>
 									<dict>
 										<key>LANGUAGE</key>
-										<string>Simplified Chinese</string>
+										<string>German</string>
 										<key>VALUE</key>
-										<string>备份原有OpenCore EFI</string>
+										<string>Vorhandene OC EFI sichern</string>
 									</dict>
 								</array>
 								<key>TYPE</key>
@@ -14715,9 +15335,9 @@
 									</dict>
 									<dict>
 										<key>LANGUAGE</key>
-										<string>German</string>
+										<string>Simplified Chinese</string>
 										<key>VALUE</key>
-										<string>Für Apple-Dienste sind eindeutige Kennungen (unique identifiers) erforderlich. Standardmäßig werden Kennungen aus einer vorhandenen OC-Installation kopiert. Andernfalls wird es generiert. Wenn Sie dies aktivieren, werden alle vorhandenen Daten ignoriert und Kennungen werden wieder neu generiert.</string>
+										<string>Apple服务需要使用唯一标示码。默认情况下，标示码将会继承本地原有OpenCore配置中的值。如果该选项被选中，将忽略原有的唯一标示码，并重新生成唯一标示码。</string>
 									</dict>
 									<dict>
 										<key>LANGUAGE</key>
@@ -14727,9 +15347,9 @@
 									</dict>
 									<dict>
 										<key>LANGUAGE</key>
-										<string>Simplified Chinese</string>
+										<string>German</string>
 										<key>VALUE</key>
-										<string>Apple服务需要使用唯一标示码。默认情况下，标示码将会继承本地原有OpenCore配置中的值。如果该选项被选中，将忽略原有的唯一标示码，并重新生成唯一标示码。</string>
+										<string>Für Apple-Dienste sind eindeutige Kennungen (unique identifiers) erforderlich. Standardmäßig werden Kennungen aus einer vorhandenen OC-Installation kopiert. Andernfalls wird es generiert. Wenn Sie dies aktivieren, werden alle vorhandenen Daten ignoriert und Kennungen werden wieder neu generiert.</string>
 									</dict>
 								</array>
 								<key>OPTIONS</key>
@@ -14751,9 +15371,9 @@
 									</dict>
 									<dict>
 										<key>LANGUAGE</key>
-										<string>German</string>
+										<string>Simplified Chinese</string>
 										<key>VALUE</key>
-										<string>Eindeutige Kennungen generieren</string>
+										<string>重新生成唯一标示码</string>
 									</dict>
 									<dict>
 										<key>LANGUAGE</key>
@@ -14763,9 +15383,9 @@
 									</dict>
 									<dict>
 										<key>LANGUAGE</key>
-										<string>Simplified Chinese</string>
+										<string>German</string>
 										<key>VALUE</key>
-										<string>重新生成唯一标示码</string>
+										<string>Eindeutige Kennungen generieren</string>
 									</dict>
 								</array>
 								<key>TYPE</key>
@@ -14789,9 +15409,9 @@
 											</dict>
 											<dict>
 												<key>LANGUAGE</key>
-												<string>German</string>
+												<string>Simplified Chinese</string>
 												<key>VALUE</key>
-												<string>Richtet OC-signierte "Vault"-Funktionen ein. Wenn aktiviert, muss der "Vault" neu generiert und neu signiert werden, nachdem Änderungen vorgenommen wurden. Möglicherweise müssen Sie macOS auch nach der Wiederherstellung neu installieren.</string>
+												<string>启用OpenCore签名保护功能。一旦启用，你必须在做出任何修改后重新生成并签名才可引导。</string>
 											</dict>
 											<dict>
 												<key>LANGUAGE</key>
@@ -14801,9 +15421,9 @@
 											</dict>
 											<dict>
 												<key>LANGUAGE</key>
-												<string>Simplified Chinese</string>
+												<string>German</string>
 												<key>VALUE</key>
-												<string>启用OpenCore签名保护功能。一旦启用，你必须在做出任何修改后重新生成并签名才可引导。</string>
+												<string>Richtet OC-signierte "Vault"-Funktionen ein. Wenn aktiviert, muss der "Vault" neu generiert und neu signiert werden, nachdem Änderungen vorgenommen wurden. Möglicherweise müssen Sie macOS auch nach der Wiederherstellung neu installieren.</string>
 											</dict>
 										</array>
 										<key>OPTIONS</key>
@@ -14825,9 +15445,9 @@
 											</dict>
 											<dict>
 												<key>LANGUAGE</key>
-												<string>German</string>
+												<string>Simplified Chinese</string>
 												<key>VALUE</key>
-												<string>Startsicherheit aktivieren</string>
+												<string>启用引导安全选项</string>
 											</dict>
 											<dict>
 												<key>LANGUAGE</key>
@@ -14837,9 +15457,9 @@
 											</dict>
 											<dict>
 												<key>LANGUAGE</key>
-												<string>Simplified Chinese</string>
+												<string>German</string>
 												<key>VALUE</key>
-												<string>启用引导安全选项</string>
+												<string>Startsicherheit aktivieren</string>
 											</dict>
 										</array>
 										<key>TYPE</key>
@@ -14860,9 +15480,9 @@
 											</dict>
 											<dict>
 												<key>LANGUAGE</key>
-												<string>German</string>
+												<string>Simplified Chinese</string>
 												<key>VALUE</key>
-												<string>Zeigt Startmeldungen anstelle des Apple-Logos und des Fortschrittsbalkens an.</string>
+												<string>显示详细的启动信息而不是苹果标志和进度条。</string>
 											</dict>
 											<dict>
 												<key>LANGUAGE</key>
@@ -14872,9 +15492,9 @@
 											</dict>
 											<dict>
 												<key>LANGUAGE</key>
-												<string>Simplified Chinese</string>
+												<string>German</string>
 												<key>VALUE</key>
-												<string>显示详细的启动信息而不是苹果标志和进度条。</string>
+												<string>Zeigt Startmeldungen anstelle des Apple-Logos und des Fortschrittsbalkens an.</string>
 											</dict>
 										</array>
 										<key>OPTIONS</key>
@@ -14896,9 +15516,9 @@
 											</dict>
 											<dict>
 												<key>LANGUAGE</key>
-												<string>German</string>
+												<string>Simplified Chinese</string>
 												<key>VALUE</key>
-												<string>Verbose-Start</string>
+												<string>详细模式</string>
 											</dict>
 											<dict>
 												<key>LANGUAGE</key>
@@ -14908,9 +15528,9 @@
 											</dict>
 											<dict>
 												<key>LANGUAGE</key>
-												<string>Simplified Chinese</string>
+												<string>German</string>
 												<key>VALUE</key>
-												<string>详细模式</string>
+												<string>Verbose-Start</string>
 											</dict>
 										</array>
 										<key>TYPE</key>
@@ -14931,9 +15551,9 @@
 											</dict>
 											<dict>
 												<key>LANGUAGE</key>
-												<string>German</string>
+												<string>Simplified Chinese</string>
 												<key>VALUE</key>
-												<string>Deaktiviert den automatischen Neustart bei Kernel-Panik, aktiviert Symbole im Panikprotokoll und fügt zusätzliche Debug-Protokollierung hinzu.</string>
+												<string>防止内核崩溃时系统自动重新启动，添加了详细日志引导标识符以记录详细调试日志。</string>
 											</dict>
 											<dict>
 												<key>LANGUAGE</key>
@@ -14943,9 +15563,9 @@
 											</dict>
 											<dict>
 												<key>LANGUAGE</key>
-												<string>Simplified Chinese</string>
+												<string>German</string>
 												<key>VALUE</key>
-												<string>防止内核崩溃时系统自动重新启动，添加了详细日志引导标识符以记录详细调试日志。</string>
+												<string>Deaktiviert den automatischen Neustart bei Kernel-Panik, aktiviert Symbole im Panikprotokoll und fügt zusätzliche Debug-Protokollierung hinzu.</string>
 											</dict>
 										</array>
 										<key>OPTIONS</key>
@@ -14967,9 +15587,9 @@
 											</dict>
 											<dict>
 												<key>LANGUAGE</key>
-												<string>German</string>
+												<string>Simplified Chinese</string>
 												<key>VALUE</key>
-												<string>Debug-Modus</string>
+												<string>调试模式</string>
 											</dict>
 											<dict>
 												<key>LANGUAGE</key>
@@ -14979,9 +15599,9 @@
 											</dict>
 											<dict>
 												<key>LANGUAGE</key>
-												<string>Simplified Chinese</string>
+												<string>German</string>
 												<key>VALUE</key>
-												<string>调试模式</string>
+												<string>Debug-Modus</string>
 											</dict>
 										</array>
 										<key>TYPE</key>
@@ -15002,9 +15622,9 @@
 											</dict>
 											<dict>
 												<key>LANGUAGE</key>
-												<string>German</string>
+												<string>Simplified Chinese</string>
 												<key>VALUE</key>
-												<string>Zeigt das Boot-Picker-Menü bei jedem Start 5 Sekunden lang an. Dies kann Probleme mit einem schwarzen Bildschirm beim Start umgehen.</string>
+												<string>在每次启动时都显示5秒的引导菜单。这有时候可以解决启动后黑屏的问题。</string>
 											</dict>
 											<dict>
 												<key>LANGUAGE</key>
@@ -15014,9 +15634,9 @@
 											</dict>
 											<dict>
 												<key>LANGUAGE</key>
-												<string>Simplified Chinese</string>
+												<string>German</string>
 												<key>VALUE</key>
-												<string>在每次启动时都显示5秒的引导菜单。这有时候可以解决启动后黑屏的问题。</string>
+												<string>Zeigt das Boot-Picker-Menü bei jedem Start 5 Sekunden lang an. Dies kann Probleme mit einem schwarzen Bildschirm beim Start umgehen.</string>
 											</dict>
 										</array>
 										<key>OPTIONS</key>
@@ -15038,9 +15658,9 @@
 											</dict>
 											<dict>
 												<key>LANGUAGE</key>
-												<string>German</string>
+												<string>Simplified Chinese</string>
 												<key>VALUE</key>
-												<string>Startmenü anzeigen</string>
+												<string>显示引导菜单</string>
 											</dict>
 											<dict>
 												<key>LANGUAGE</key>
@@ -15050,9 +15670,9 @@
 											</dict>
 											<dict>
 												<key>LANGUAGE</key>
-												<string>Simplified Chinese</string>
+												<string>German</string>
 												<key>VALUE</key>
-												<string>显示引导菜单</string>
+												<string>Startmenü anzeigen</string>
 											</dict>
 										</array>
 										<key>TYPE</key>
@@ -15073,9 +15693,9 @@
 											</dict>
 											<dict>
 												<key>LANGUAGE</key>
-												<string>German</string>
+												<string>Simplified Chinese</string>
 												<key>VALUE</key>
-												<string>Wählen Sie diese Option, um vorhandene boot-args zu löschen. Nur erforderlich, wenn Sie boot-args in der Vergangenheit manuell geändert haben. Beim nächsten Neustart werden die boot-args mit der Standardeinstellung in config.plist überschrieben (auf die obigen Optionen eingestellt). Möglicherweise muss SIP deaktiviert werden (andernfalls schlägt die Installation möglicherweise fehl). Das Löschen des NVRAM aus dem OpenCore-Startmenü erreicht denselben Zweck.</string>
+												<string>选中该选项以重置引导参数（boot-args）。只有在你手动调整过引导参数时需要使用。选中后，在下一次重新启动时，config.plist中的引导参数将被你现在所选的参数覆盖，反之则会保留。这可能需要禁用系统完整性保护（SIP），否则可能会导致安装失败。在OpenCore引导菜单中重置NVRAM也可以达到同样的效果。</string>
 											</dict>
 											<dict>
 												<key>LANGUAGE</key>
@@ -15085,9 +15705,9 @@
 											</dict>
 											<dict>
 												<key>LANGUAGE</key>
-												<string>Simplified Chinese</string>
+												<string>German</string>
 												<key>VALUE</key>
-												<string>选中该选项以重置引导参数（boot-args）。只有在你手动调整过引导参数时需要使用。选中后，在下一次重新启动时，config.plist中的引导参数将被你现在所选的参数覆盖，反之则会保留。这可能需要禁用系统完整性保护（SIP），否则可能会导致安装失败。在OpenCore引导菜单中重置NVRAM也可以达到同样的效果。</string>
+												<string>Wählen Sie diese Option, um vorhandene boot-args zu löschen. Nur erforderlich, wenn Sie boot-args in der Vergangenheit manuell geändert haben. Beim nächsten Neustart werden die boot-args mit der Standardeinstellung in config.plist überschrieben (auf die obigen Optionen eingestellt). Möglicherweise muss SIP deaktiviert werden (andernfalls schlägt die Installation möglicherweise fehl). Das Löschen des NVRAM aus dem OpenCore-Startmenü erreicht denselben Zweck.</string>
 											</dict>
 										</array>
 										<key>OPTIONS</key>
@@ -15109,9 +15729,9 @@
 											</dict>
 											<dict>
 												<key>LANGUAGE</key>
-												<string>German</string>
+												<string>Simplified Chinese</string>
 												<key>VALUE</key>
-												<string>boot-args zurücksetzen</string>
+												<string>重置引导参数（boot-args）</string>
 											</dict>
 											<dict>
 												<key>LANGUAGE</key>
@@ -15121,9 +15741,9 @@
 											</dict>
 											<dict>
 												<key>LANGUAGE</key>
-												<string>Simplified Chinese</string>
+												<string>German</string>
 												<key>VALUE</key>
-												<string>重置引导参数（boot-args）</string>
+												<string>boot-args zurücksetzen</string>
 											</dict>
 										</array>
 										<key>TYPE</key>
@@ -15142,9 +15762,9 @@
 									</dict>
 									<dict>
 										<key>LANGUAGE</key>
-										<string>German</string>
+										<string>Simplified Chinese</string>
 										<key>VALUE</key>
-										<string>Passen Sie die Starteinstellungen an. Möglicherweise muss das NVRAM gelöscht werden, damit Änderungen angewendet werden können.</string>
+										<string>自定义引导设置。这可能需要重置NVRAM来生效。</string>
 									</dict>
 									<dict>
 										<key>LANGUAGE</key>
@@ -15154,9 +15774,9 @@
 									</dict>
 									<dict>
 										<key>LANGUAGE</key>
-										<string>Simplified Chinese</string>
+										<string>German</string>
 										<key>VALUE</key>
-										<string>自定义引导设置。这可能需要重置NVRAM来生效。</string>
+										<string>Passen Sie die Starteinstellungen an. Möglicherweise muss das NVRAM gelöscht werden, damit Änderungen angewendet werden können.</string>
 									</dict>
 								</array>
 								<key>OPTIONS</key>
@@ -15176,9 +15796,9 @@
 									</dict>
 									<dict>
 										<key>LANGUAGE</key>
-										<string>German</string>
+										<string>Simplified Chinese</string>
 										<key>VALUE</key>
-										<string>Boot Optionen</string>
+										<string>引导选项</string>
 									</dict>
 									<dict>
 										<key>LANGUAGE</key>
@@ -15188,9 +15808,9 @@
 									</dict>
 									<dict>
 										<key>LANGUAGE</key>
-										<string>Simplified Chinese</string>
+										<string>German</string>
 										<key>VALUE</key>
-										<string>引导选项</string>
+										<string>Boot Optionen</string>
 									</dict>
 								</array>
 								<key>TYPE</key>
@@ -15214,9 +15834,9 @@
 											</dict>
 											<dict>
 												<key>LANGUAGE</key>
-												<string>Simplified Chinese</string>
+												<string>German</string>
 												<key>VALUE</key>
-												<string>将雷雳作为PCIE桥。支持热拔插。与Windows完全兼容。不支持macOS原生雷雳功能，对Apple雷雳设备有限支持。可能会造成在无设备插入时系统内核错误</string>
+												<string>Verwenden Sie Thunderbolt als eine PCIe-Brücke. Unterstützt Hotplug. Voll kompatibel mit Windows. Unterstützt keine nativen OSX Thunderbolt-Funktionen und eingeschränkte Unterstützung für Apple Thunderbolt-Geräte. Verursacht unter OSX manchmal Panik, wenn nichts angeschlossen ist.</string>
 											</dict>
 											<dict>
 												<key>LANGUAGE</key>
@@ -15226,9 +15846,9 @@
 											</dict>
 											<dict>
 												<key>LANGUAGE</key>
-												<string>German</string>
+												<string>Simplified Chinese</string>
 												<key>VALUE</key>
-												<string>Verwenden Sie Thunderbolt als eine PCIe-Brücke. Unterstützt Hotplug. Voll kompatibel mit Windows. Unterstützt keine nativen OSX Thunderbolt-Funktionen und eingeschränkte Unterstützung für Apple Thunderbolt-Geräte. Verursacht unter OSX manchmal Panik, wenn nichts angeschlossen ist.</string>
+												<string>将雷雳作为PCIE桥。支持热拔插。与Windows完全兼容。不支持macOS原生雷雳功能，对Apple雷雳设备有限支持。可能会造成在无设备插入时系统内核错误</string>
 											</dict>
 										</array>
 										<key>OPTIONS</key>
@@ -15250,9 +15870,9 @@
 											</dict>
 											<dict>
 												<key>LANGUAGE</key>
-												<string>German</string>
+												<string>Simplified Chinese</string>
 												<key>VALUE</key>
-												<string>Legacy Thunderbolt</string>
+												<string>传统雷雳</string>
 											</dict>
 											<dict>
 												<key>LANGUAGE</key>
@@ -15262,9 +15882,9 @@
 											</dict>
 											<dict>
 												<key>LANGUAGE</key>
-												<string>Simplified Chinese</string>
+												<string>German</string>
 												<key>VALUE</key>
-												<string>传统雷雳</string>
+												<string>Legacy Thunderbolt</string>
 											</dict>
 										</array>
 										<key>TYPE</key>
@@ -15285,9 +15905,9 @@
 											</dict>
 											<dict>
 												<key>LANGUAGE</key>
-												<string>Simplified Chinese</string>
+												<string>German</string>
 												<key>VALUE</key>
-												<string>由苹果原生驱动提供完整雷雳支持。需要在安装完成重新启动之后对NVM固件打补丁（工具将被安装到/Applications/Thunderbolt Patcher.app）。Windows有限兼容性（USB可用，不支持雷雳设备热拔插）。</string>
+												<string>Volle Thunderbolt-Unterstützung mit nativen Apple-Treibern. Erfordert nach dem Neustart das Patchen der NVM-Firmware (das Tool wird unter /Applications/Thunderbolt Patcher.app installiert). Die Windows-Kompatibilität ist eingeschränkt (USB funktioniert, kein Thunderbolt-Hotplug unter Windows).</string>
 											</dict>
 											<dict>
 												<key>LANGUAGE</key>
@@ -15297,9 +15917,9 @@
 											</dict>
 											<dict>
 												<key>LANGUAGE</key>
-												<string>German</string>
+												<string>Simplified Chinese</string>
 												<key>VALUE</key>
-												<string>Volle Thunderbolt-Unterstützung mit nativen Apple-Treibern. Erfordert nach dem Neustart das Patchen der NVM-Firmware (das Tool wird unter /Applications/Thunderbolt Patcher.app installiert). Die Windows-Kompatibilität ist eingeschränkt (USB funktioniert, kein Thunderbolt-Hotplug unter Windows).</string>
+												<string>由苹果原生驱动提供完整雷雳支持。需要在安装完成重新启动之后对NVM固件打补丁（工具将被安装到/Applications/Thunderbolt Patcher.app）。Windows有限兼容性（USB可用，不支持雷雳设备热拔插）。</string>
 											</dict>
 										</array>
 										<key>OPTIONS</key>
@@ -15344,9 +15964,9 @@
 											</dict>
 											<dict>
 												<key>LANGUAGE</key>
-												<string>German</string>
+												<string>Simplified Chinese</string>
 												<key>VALUE</key>
-												<string>Natives Thunderbolt</string>
+												<string>原生雷雳</string>
 											</dict>
 											<dict>
 												<key>LANGUAGE</key>
@@ -15356,9 +15976,9 @@
 											</dict>
 											<dict>
 												<key>LANGUAGE</key>
-												<string>Simplified Chinese</string>
+												<string>German</string>
 												<key>VALUE</key>
-												<string>原生雷雳</string>
+												<string>Natives Thunderbolt</string>
 											</dict>
 										</array>
 										<key>TYPE</key>
@@ -15379,9 +15999,9 @@
 											</dict>
 											<dict>
 												<key>LANGUAGE</key>
-												<string>Simplified Chinese</string>
+												<string>German</string>
 												<key>VALUE</key>
-												<string>安装Thunderbolt 3 Unblocker内核扩展以绕过外设支持限制（如雷蛇战核Razer Core）。只可用于原生雷雳选项。</string>
+												<string>Installiert die Thunderbolt 3 Unblocker-Erweiterung, um nicht unterstützte Peripheriegeräte (wie den Razer Core) zu umgehen. Gilt nur für native Thunderbolt.</string>
 											</dict>
 											<dict>
 												<key>LANGUAGE</key>
@@ -15391,9 +16011,9 @@
 											</dict>
 											<dict>
 												<key>LANGUAGE</key>
-												<string>German</string>
+												<string>Simplified Chinese</string>
 												<key>VALUE</key>
-												<string>Installiert die Thunderbolt 3 Unblocker-Erweiterung, um nicht unterstützte Peripheriegeräte (wie den Razer Core) zu umgehen. Gilt nur für native Thunderbolt.</string>
+												<string>安装Thunderbolt 3 Unblocker内核扩展以绕过外设支持限制（如雷蛇战核Razer Core）。只可用于原生雷雳选项。</string>
 											</dict>
 										</array>
 										<key>OPTIONS</key>
@@ -15473,9 +16093,9 @@
 											</dict>
 											<dict>
 												<key>LANGUAGE</key>
-												<string>German</string>
+												<string>Simplified Chinese</string>
 												<key>VALUE</key>
-												<string>nicht unterstützte Geräte entsperren</string>
+												<string>解锁不支持的设备</string>
 											</dict>
 											<dict>
 												<key>LANGUAGE</key>
@@ -15485,9 +16105,9 @@
 											</dict>
 											<dict>
 												<key>LANGUAGE</key>
-												<string>Simplified Chinese</string>
+												<string>German</string>
 												<key>VALUE</key>
-												<string>解锁不支持的设备</string>
+												<string>nicht unterstützte Geräte entsperren</string>
 											</dict>
 										</array>
 										<key>TYPE</key>
@@ -15506,11 +16126,9 @@
 									</dict>
 									<dict>
 										<key>LANGUAGE</key>
-										<string>Simplified Chinese</string>
+										<string>German</string>
 										<key>VALUE</key>
-										<string>雷雳支持。
-该选项需要更多的支持信息，请确保你阅读并理解以下内容： 
-https://osy.gitbook.io/hac-mini-guide/details/thunderbolt-3-fix-part-3#comparison</string>
+										<string>Thunderbolt-Unterstützung</string>
 									</dict>
 									<dict>
 										<key>LANGUAGE</key>
@@ -15520,9 +16138,11 @@ https://osy.gitbook.io/hac-mini-guide/details/thunderbolt-3-fix-part-3#compariso
 									</dict>
 									<dict>
 										<key>LANGUAGE</key>
-										<string>German</string>
+										<string>Simplified Chinese</string>
 										<key>VALUE</key>
-										<string>Thunderbolt-Unterstützung</string>
+										<string>雷雳支持。
+该选项需要更多的支持信息，请确保你阅读并理解以下内容： 
+https://osy.gitbook.io/hac-mini-guide/details/thunderbolt-3-fix-part-3#comparison</string>
 									</dict>
 								</array>
 								<key>OPTIONS</key>
@@ -15542,9 +16162,9 @@ https://osy.gitbook.io/hac-mini-guide/details/thunderbolt-3-fix-part-3#compariso
 									</dict>
 									<dict>
 										<key>LANGUAGE</key>
-										<string>German</string>
+										<string>Simplified Chinese</string>
 										<key>VALUE</key>
-										<string>Thunderbolt</string>
+										<string>雷雳</string>
 									</dict>
 									<dict>
 										<key>LANGUAGE</key>
@@ -15554,9 +16174,9 @@ https://osy.gitbook.io/hac-mini-guide/details/thunderbolt-3-fix-part-3#compariso
 									</dict>
 									<dict>
 										<key>LANGUAGE</key>
-										<string>Simplified Chinese</string>
+										<string>German</string>
 										<key>VALUE</key>
-										<string>雷雳</string>
+										<string>Thunderbolt</string>
 									</dict>
 								</array>
 								<key>TYPE</key>
@@ -15580,9 +16200,9 @@ https://osy.gitbook.io/hac-mini-guide/details/thunderbolt-3-fix-part-3#compariso
 											</dict>
 											<dict>
 												<key>LANGUAGE</key>
-												<string>Simplified Chinese</string>
+												<string>German</string>
 												<key>VALUE</key>
-												<string>强烈推荐。包含多个对显示/GPU的补丁。包括：英特尔QuickSync支持，修复一个详细模式下的内核错误。然而，有用户报告此驱动可能导致问题，因此提供此选项以解决一些显示问题。</string>
+												<string>Sehr empfehlenswert. Verschiedene Patches für GPU/Display. Einschließlich: Intel QuickSync-Unterstützung und Behebung einer Kernel-Panik beim Verbose-Start. Einige Benutzer melden jedoch Probleme mit diesem Treiber. Daher ist es möglich, es zu deaktivieren, um festzustellen, ob Anzeigeprobleme behoben sind.</string>
 											</dict>
 											<dict>
 												<key>LANGUAGE</key>
@@ -15592,9 +16212,9 @@ https://osy.gitbook.io/hac-mini-guide/details/thunderbolt-3-fix-part-3#compariso
 											</dict>
 											<dict>
 												<key>LANGUAGE</key>
-												<string>German</string>
+												<string>Simplified Chinese</string>
 												<key>VALUE</key>
-												<string>Sehr empfehlenswert. Verschiedene Patches für GPU/Display. Einschließlich: Intel QuickSync-Unterstützung und Behebung einer Kernel-Panik beim Verbose-Start. Einige Benutzer melden jedoch Probleme mit diesem Treiber. Daher ist es möglich, es zu deaktivieren, um festzustellen, ob Anzeigeprobleme behoben sind.</string>
+												<string>强烈推荐。包含多个对显示/GPU的补丁。包括：英特尔QuickSync支持，修复一个详细模式下的内核错误。然而，有用户报告此驱动可能导致问题，因此提供此选项以解决一些显示问题。</string>
 											</dict>
 										</array>
 										<key>OPTIONS</key>
@@ -15616,7 +16236,7 @@ https://osy.gitbook.io/hac-mini-guide/details/thunderbolt-3-fix-part-3#compariso
 											</dict>
 											<dict>
 												<key>LANGUAGE</key>
-												<string>German</string>
+												<string>Simplified Chinese</string>
 												<key>VALUE</key>
 												<string>WhateverGreen</string>
 											</dict>
@@ -15628,7 +16248,7 @@ https://osy.gitbook.io/hac-mini-guide/details/thunderbolt-3-fix-part-3#compariso
 											</dict>
 											<dict>
 												<key>LANGUAGE</key>
-												<string>Simplified Chinese</string>
+												<string>German</string>
 												<key>VALUE</key>
 												<string>WhateverGreen</string>
 											</dict>
@@ -15651,15 +16271,15 @@ https://osy.gitbook.io/hac-mini-guide/details/thunderbolt-3-fix-part-3#compariso
 											</dict>
 											<dict>
 												<key>LANGUAGE</key>
-												<string>French</string>
-												<key>VALUE</key>
-												<string>Hautement recommandé. Active Airplay sur Mac et d'autres fonctionnalités dès Monterey.</string>
-											</dict>
-											<dict>
-												<key>LANGUAGE</key>
 												<string>Simplified Chinese</string>
 												<key>VALUE</key>
 												<string>强烈推荐。开启Monterey的Airplay to Mac等功能。</string>
+											</dict>
+											<dict>
+												<key>LANGUAGE</key>
+												<string>French</string>
+												<key>VALUE</key>
+												<string>Hautement recommandé. Active Airplay sur Mac et d'autres fonctionnalités dès Monterey.</string>
 											</dict>
 										</array>
 										<key>OPTIONS</key>
@@ -15681,13 +16301,13 @@ https://osy.gitbook.io/hac-mini-guide/details/thunderbolt-3-fix-part-3#compariso
 											</dict>
 											<dict>
 												<key>LANGUAGE</key>
-												<string>Simplified Chinese</string>
+												<string>French</string>
 												<key>VALUE</key>
 												<string>FeatureUnlock</string>
 											</dict>
 											<dict>
 												<key>LANGUAGE</key>
-												<string>French</string>
+												<string>Simplified Chinese</string>
 												<key>VALUE</key>
 												<string>FeatureUnlock</string>
 											</dict>
@@ -15745,10 +16365,9 @@ https://osy.gitbook.io/hac-mini-guide/details/thunderbolt-3-fix-part-3#compariso
 											</dict>
 											<dict>
 												<key>LANGUAGE</key>
-												<string>Simplified Chinese</string>
+												<string>German</string>
 												<key>VALUE</key>
-												<string>这是一个针对第三方无线网卡的补丁。请保证在BIOS设置中"PCI-E ASPM"已被禁用。
-支持的型号：CN-08PKF4</string>
+												<string>Patches für diese Drittanbieter-Netzwerkkarte. Stellen Sie sicher, dass PCIe ASPM im BIOS deaktiviert ist. Unterstützte Modelle: CN-08PKF4.</string>
 											</dict>
 											<dict>
 												<key>LANGUAGE</key>
@@ -15758,9 +16377,10 @@ https://osy.gitbook.io/hac-mini-guide/details/thunderbolt-3-fix-part-3#compariso
 											</dict>
 											<dict>
 												<key>LANGUAGE</key>
-												<string>German</string>
+												<string>Simplified Chinese</string>
 												<key>VALUE</key>
-												<string>Patches für diese Drittanbieter-Netzwerkkarte. Stellen Sie sicher, dass PCIe ASPM im BIOS deaktiviert ist. Unterstützte Modelle: CN-08PKF4.</string>
+												<string>这是一个针对第三方无线网卡的补丁。请保证在BIOS设置中"PCI-E ASPM"已被禁用。
+支持的型号：CN-08PKF4</string>
 											</dict>
 										</array>
 										<key>OPTIONS</key>
@@ -15782,9 +16402,9 @@ https://osy.gitbook.io/hac-mini-guide/details/thunderbolt-3-fix-part-3#compariso
 											</dict>
 											<dict>
 												<key>LANGUAGE</key>
-												<string>German</string>
+												<string>Simplified Chinese</string>
 												<key>VALUE</key>
-												<string>Dell DW1820A</string>
+												<string>戴尔 DW1820A</string>
 											</dict>
 											<dict>
 												<key>LANGUAGE</key>
@@ -15794,9 +16414,9 @@ https://osy.gitbook.io/hac-mini-guide/details/thunderbolt-3-fix-part-3#compariso
 											</dict>
 											<dict>
 												<key>LANGUAGE</key>
-												<string>Simplified Chinese</string>
+												<string>German</string>
 												<key>VALUE</key>
-												<string>戴尔 DW1820A</string>
+												<string>Dell DW1820A</string>
 											</dict>
 										</array>
 										<key>TYPE</key>
@@ -15817,9 +16437,9 @@ https://osy.gitbook.io/hac-mini-guide/details/thunderbolt-3-fix-part-3#compariso
 											</dict>
 											<dict>
 												<key>LANGUAGE</key>
-												<string>Simplified Chinese</string>
+												<string>German</string>
 												<key>VALUE</key>
-												<string>原机自带的Intel无线模块驱动。该驱动只包含蓝牙（没有Wi-Fi）。支持的型号：3165, 3168, 726x, 8265, 926x, 9560, AX200, AX201</string>
+												<string>Treiber für die serienmäßige Intel Wireless-Karte. Nur Bluetooth (kein WLAN). Unterstützte Modelle: 3165, 3168, 726x, 8265, 926x, 9560, AX200, AX201</string>
 											</dict>
 											<dict>
 												<key>LANGUAGE</key>
@@ -15829,9 +16449,9 @@ https://osy.gitbook.io/hac-mini-guide/details/thunderbolt-3-fix-part-3#compariso
 											</dict>
 											<dict>
 												<key>LANGUAGE</key>
-												<string>German</string>
+												<string>Simplified Chinese</string>
 												<key>VALUE</key>
-												<string>Treiber für die serienmäßige Intel Wireless-Karte. Nur Bluetooth (kein WLAN). Unterstützte Modelle: 3165, 3168, 726x, 8265, 926x, 9560, AX200, AX201</string>
+												<string>原机自带的Intel无线模块驱动。该驱动只包含蓝牙（没有Wi-Fi）。支持的型号：3165, 3168, 726x, 8265, 926x, 9560, AX200, AX201</string>
 											</dict>
 										</array>
 										<key>OPTIONS</key>
@@ -15853,9 +16473,9 @@ https://osy.gitbook.io/hac-mini-guide/details/thunderbolt-3-fix-part-3#compariso
 											</dict>
 											<dict>
 												<key>LANGUAGE</key>
-												<string>Simplified Chinese</string>
+												<string>German</string>
 												<key>VALUE</key>
-												<string>Intel 蓝牙</string>
+												<string>Intel Bluetooth</string>
 											</dict>
 											<dict>
 												<key>LANGUAGE</key>
@@ -15865,9 +16485,9 @@ https://osy.gitbook.io/hac-mini-guide/details/thunderbolt-3-fix-part-3#compariso
 											</dict>
 											<dict>
 												<key>LANGUAGE</key>
-												<string>German</string>
+												<string>Simplified Chinese</string>
 												<key>VALUE</key>
-												<string>Intel Bluetooth</string>
+												<string>Intel 蓝牙</string>
 											</dict>
 										</array>
 										<key>TYPE</key>
@@ -15943,6 +16563,64 @@ https://osy.gitbook.io/hac-mini-guide/details/thunderbolt-3-fix-part-3#compariso
 												<key>LANGUAGE</key>
 												<string>English</string>
 												<key>VALUE</key>
+												<string></string>
+											</dict>
+										</array>
+										<key>OPTIONS</key>
+										<dict>
+											<key>DEPENDENCY</key>
+											<dict>
+												<key>ENABLED_DEPENDENCY</key>
+												<dict>
+													<key>COMPARATOR</key>
+													<integer>1</integer>
+													<key>OBJECT</key>
+													<integer>0</integer>
+													<key>UUID</key>
+													<string>BD89BFE3-24AE-4F8E-A2ED-25909785EE4D</string>
+												</dict>
+												<key>ENABLED_MODE</key>
+												<integer>2</integer>
+												<key>SELECTED_DEPENDENCY</key>
+												<dict>
+													<key>COMPARATOR</key>
+													<integer>0</integer>
+													<key>OBJECT</key>
+													<integer>0</integer>
+													<key>UUID</key>
+													<string>E919B062-B908-4C54-A038-64BF79C90231</string>
+												</dict>
+											</dict>
+											<key>HIDDEN</key>
+											<false/>
+											<key>STATE</key>
+											<integer>3</integer>
+										</dict>
+										<key>PACKAGE_UUID</key>
+										<string>DC9036D6-9582-4B36-B34D-E32736AFA651</string>
+										<key>TITLE</key>
+										<array>
+											<dict>
+												<key>LANGUAGE</key>
+												<string>English</string>
+												<key>VALUE</key>
+												<string>Intel Wireless (Sequoia)</string>
+											</dict>
+										</array>
+										<key>TYPE</key>
+										<integer>0</integer>
+										<key>UUID</key>
+										<string>897E891C-708F-4694-8559-BAD5277D7E73</string>
+									</dict>
+									<dict>
+										<key>CHILDREN</key>
+										<array/>
+										<key>DESCRIPTION</key>
+										<array>
+											<dict>
+												<key>LANGUAGE</key>
+												<string>English</string>
+												<key>VALUE</key>
 												<string>Driver for the LAN2 port for macOS 12.0+. On older versions of macOS, Small Tree drivers are always used regardless if this is checked or not. This driver is still unstable and sometimes causes panics.</string>
 											</dict>
 											<dict>
@@ -15992,9 +16670,9 @@ https://osy.gitbook.io/hac-mini-guide/details/thunderbolt-3-fix-part-3#compariso
 									</dict>
 									<dict>
 										<key>LANGUAGE</key>
-										<string>Simplified Chinese</string>
+										<string>German</string>
 										<key>VALUE</key>
-										<string>额外驱动</string>
+										<string>Zusätzliche Treiber</string>
 									</dict>
 									<dict>
 										<key>LANGUAGE</key>
@@ -16004,9 +16682,9 @@ https://osy.gitbook.io/hac-mini-guide/details/thunderbolt-3-fix-part-3#compariso
 									</dict>
 									<dict>
 										<key>LANGUAGE</key>
-										<string>German</string>
+										<string>Simplified Chinese</string>
 										<key>VALUE</key>
-										<string>Zusätzliche Treiber</string>
+										<string>额外驱动</string>
 									</dict>
 								</array>
 								<key>OPTIONS</key>
@@ -16026,9 +16704,9 @@ https://osy.gitbook.io/hac-mini-guide/details/thunderbolt-3-fix-part-3#compariso
 									</dict>
 									<dict>
 										<key>LANGUAGE</key>
-										<string>Simplified Chinese</string>
+										<string>German</string>
 										<key>VALUE</key>
-										<string>驱动程序</string>
+										<string>Treiber</string>
 									</dict>
 									<dict>
 										<key>LANGUAGE</key>
@@ -16038,9 +16716,9 @@ https://osy.gitbook.io/hac-mini-guide/details/thunderbolt-3-fix-part-3#compariso
 									</dict>
 									<dict>
 										<key>LANGUAGE</key>
-										<string>German</string>
+										<string>Simplified Chinese</string>
 										<key>VALUE</key>
-										<string>Treiber</string>
+										<string>驱动程序</string>
 									</dict>
 								</array>
 								<key>TYPE</key>
@@ -16064,9 +16742,9 @@ https://osy.gitbook.io/hac-mini-guide/details/thunderbolt-3-fix-part-3#compariso
 											</dict>
 											<dict>
 												<key>LANGUAGE</key>
-												<string>Simplified Chinese</string>
+												<string>German</string>
 												<key>VALUE</key>
-												<string>使用AMD UVD/VCE作为硬件视频编解码器。</string>
+												<string>AMD UVD/VCE für Hardware-Video-Codec-Funktionen verwenden.</string>
 											</dict>
 											<dict>
 												<key>LANGUAGE</key>
@@ -16076,9 +16754,9 @@ https://osy.gitbook.io/hac-mini-guide/details/thunderbolt-3-fix-part-3#compariso
 											</dict>
 											<dict>
 												<key>LANGUAGE</key>
-												<string>German</string>
+												<string>Simplified Chinese</string>
 												<key>VALUE</key>
-												<string>AMD UVD/VCE für Hardware-Video-Codec-Funktionen verwenden.</string>
+												<string>使用AMD UVD/VCE作为硬件视频编解码器。</string>
 											</dict>
 										</array>
 										<key>OPTIONS</key>
@@ -16180,10 +16858,9 @@ https://osy.gitbook.io/hac-mini-guide/details/thunderbolt-3-fix-part-3#compariso
 											</dict>
 											<dict>
 												<key>LANGUAGE</key>
-												<string>Simplified Chinese</string>
+												<string>German</string>
 												<key>VALUE</key>
-												<string>推荐此选项。使用Intel QuickSync进行硬件编解码。
-需要在BIOS中启用Intel IGPU。</string>
+												<string>Empfohlen. Erfordert, dass Intel IGPU im BIOS aktiviert ist. Verwenden Sie Intel QuickSync für Hardware-Video-Codec-Funktionen.</string>
 											</dict>
 											<dict>
 												<key>LANGUAGE</key>
@@ -16193,9 +16870,10 @@ https://osy.gitbook.io/hac-mini-guide/details/thunderbolt-3-fix-part-3#compariso
 											</dict>
 											<dict>
 												<key>LANGUAGE</key>
-												<string>German</string>
+												<string>Simplified Chinese</string>
 												<key>VALUE</key>
-												<string>Empfohlen. Erfordert, dass Intel IGPU im BIOS aktiviert ist. Verwenden Sie Intel QuickSync für Hardware-Video-Codec-Funktionen.</string>
+												<string>推荐此选项。使用Intel QuickSync进行硬件编解码。
+需要在BIOS中启用Intel IGPU。</string>
 											</dict>
 										</array>
 										<key>OPTIONS</key>
@@ -16267,9 +16945,9 @@ https://osy.gitbook.io/hac-mini-guide/details/thunderbolt-3-fix-part-3#compariso
 									</dict>
 									<dict>
 										<key>LANGUAGE</key>
-										<string>Simplified Chinese</string>
+										<string>German</string>
 										<key>VALUE</key>
-										<string>选择你要使用哪个设备进行视频硬件编码/解码。需要WhateverGreen。可能需要重置NVRAM才可生效。</string>
+										<string>Wählen Sie den zu verwendenden Hardware-Videodecodierer/-codierer aus. WhateverGreen erforderlich. Möglicherweise muss das NVRAM gelöscht werden, damit Änderungen angewendet werden können.</string>
 									</dict>
 									<dict>
 										<key>LANGUAGE</key>
@@ -16279,9 +16957,9 @@ https://osy.gitbook.io/hac-mini-guide/details/thunderbolt-3-fix-part-3#compariso
 									</dict>
 									<dict>
 										<key>LANGUAGE</key>
-										<string>German</string>
+										<string>Simplified Chinese</string>
 										<key>VALUE</key>
-										<string>Wählen Sie den zu verwendenden Hardware-Videodecodierer/-codierer aus. WhateverGreen erforderlich. Möglicherweise muss das NVRAM gelöscht werden, damit Änderungen angewendet werden können.</string>
+										<string>选择你要使用哪个设备进行视频硬件编码/解码。需要WhateverGreen。可能需要重置NVRAM才可生效。</string>
 									</dict>
 								</array>
 								<key>OPTIONS</key>
@@ -16301,9 +16979,9 @@ https://osy.gitbook.io/hac-mini-guide/details/thunderbolt-3-fix-part-3#compariso
 									</dict>
 									<dict>
 										<key>LANGUAGE</key>
-										<string>Simplified Chinese</string>
+										<string>German</string>
 										<key>VALUE</key>
-										<string>硬件视频编解码器选择</string>
+										<string>Hardware-Video-Codec</string>
 									</dict>
 									<dict>
 										<key>LANGUAGE</key>
@@ -16313,9 +16991,9 @@ https://osy.gitbook.io/hac-mini-guide/details/thunderbolt-3-fix-part-3#compariso
 									</dict>
 									<dict>
 										<key>LANGUAGE</key>
-										<string>German</string>
+										<string>Simplified Chinese</string>
 										<key>VALUE</key>
-										<string>Hardware-Video-Codec</string>
+										<string>硬件视频编解码器选择</string>
 									</dict>
 								</array>
 								<key>TYPE</key>
@@ -16339,9 +17017,9 @@ https://osy.gitbook.io/hac-mini-guide/details/thunderbolt-3-fix-part-3#compariso
 											</dict>
 											<dict>
 												<key>LANGUAGE</key>
-												<string>Simplified Chinese</string>
+												<string>German</string>
 												<key>VALUE</key>
-												<string>只在你有屏幕闪烁问题时选中。安装后，一旦屏幕开始闪烁，你应该关闭后再启动你的显示器。这个补丁会提高CPU占用率，并有可能降低你的电脑运行速度。</string>
+												<string>Wählen Sie diese Option nur aus, wenn Probleme mit dem Flackern des Bildschirms auftreten. Nach der Installation sollten Sie den NUC in den Ruhezustand versetzen und dann das Display aktivieren, wenn der Bildschirm zu flackern beginnt. Diese Problemumgehung erhöht den CPU- und Stromverbrauch und kann Ihren Computer verlangsamen.</string>
 											</dict>
 											<dict>
 												<key>LANGUAGE</key>
@@ -16351,9 +17029,9 @@ https://osy.gitbook.io/hac-mini-guide/details/thunderbolt-3-fix-part-3#compariso
 											</dict>
 											<dict>
 												<key>LANGUAGE</key>
-												<string>German</string>
+												<string>Simplified Chinese</string>
 												<key>VALUE</key>
-												<string>Wählen Sie diese Option nur aus, wenn Probleme mit dem Flackern des Bildschirms auftreten. Nach der Installation sollten Sie den NUC in den Ruhezustand versetzen und dann das Display aktivieren, wenn der Bildschirm zu flackern beginnt. Diese Problemumgehung erhöht den CPU- und Stromverbrauch und kann Ihren Computer verlangsamen.</string>
+												<string>只在你有屏幕闪烁问题时选中。安装后，一旦屏幕开始闪烁，你应该关闭后再启动你的显示器。这个补丁会提高CPU占用率，并有可能降低你的电脑运行速度。</string>
 											</dict>
 										</array>
 										<key>OPTIONS</key>
@@ -16375,9 +17053,9 @@ https://osy.gitbook.io/hac-mini-guide/details/thunderbolt-3-fix-part-3#compariso
 											</dict>
 											<dict>
 												<key>LANGUAGE</key>
-												<string>Simplified Chinese</string>
+												<string>German</string>
 												<key>VALUE</key>
-												<string>减少屏幕闪烁</string>
+												<string>Bildschirmflimmern verhindern</string>
 											</dict>
 											<dict>
 												<key>LANGUAGE</key>
@@ -16387,9 +17065,9 @@ https://osy.gitbook.io/hac-mini-guide/details/thunderbolt-3-fix-part-3#compariso
 											</dict>
 											<dict>
 												<key>LANGUAGE</key>
-												<string>German</string>
+												<string>Simplified Chinese</string>
 												<key>VALUE</key>
-												<string>Bildschirmflimmern verhindern</string>
+												<string>减少屏幕闪烁</string>
 											</dict>
 										</array>
 										<key>TYPE</key>
@@ -16410,9 +17088,9 @@ https://osy.gitbook.io/hac-mini-guide/details/thunderbolt-3-fix-part-3#compariso
 											</dict>
 											<dict>
 												<key>LANGUAGE</key>
-												<string>Simplified Chinese</string>
+												<string>German</string>
 												<key>VALUE</key>
-												<string>一些NVMe设备会导致随机Panic，如三星PM981。只有你在遇到这种情况的时候才选中这个选项。</string>
+												<string>Einige NVMe-Geräte geraten zufällig in Panik (z.B. Samsung PM981). Dies ist nur erforderlich, wenn aufgrund von NVMe Abstürze auftreten.</string>
 											</dict>
 											<dict>
 												<key>LANGUAGE</key>
@@ -16422,9 +17100,9 @@ https://osy.gitbook.io/hac-mini-guide/details/thunderbolt-3-fix-part-3#compariso
 											</dict>
 											<dict>
 												<key>LANGUAGE</key>
-												<string>German</string>
+												<string>Simplified Chinese</string>
 												<key>VALUE</key>
-												<string>Einige NVMe-Geräte geraten zufällig in Panik (z.B. Samsung PM981). Dies ist nur erforderlich, wenn aufgrund von NVMe Abstürze auftreten.</string>
+												<string>一些NVMe设备会导致随机Panic，如三星PM981。只有你在遇到这种情况的时候才选中这个选项。</string>
 											</dict>
 										</array>
 										<key>OPTIONS</key>
@@ -16446,9 +17124,9 @@ https://osy.gitbook.io/hac-mini-guide/details/thunderbolt-3-fix-part-3#compariso
 											</dict>
 											<dict>
 												<key>LANGUAGE</key>
-												<string>Simplified Chinese</string>
+												<string>German</string>
 												<key>VALUE</key>
-												<string>NVMe Panic 修复</string>
+												<string>NVMe Panik Fix</string>
 											</dict>
 											<dict>
 												<key>LANGUAGE</key>
@@ -16458,9 +17136,9 @@ https://osy.gitbook.io/hac-mini-guide/details/thunderbolt-3-fix-part-3#compariso
 											</dict>
 											<dict>
 												<key>LANGUAGE</key>
-												<string>German</string>
+												<string>Simplified Chinese</string>
 												<key>VALUE</key>
-												<string>NVMe Panik Fix</string>
+												<string>NVMe Panic 修复</string>
 											</dict>
 										</array>
 										<key>TYPE</key>
@@ -16573,9 +17251,9 @@ https://osy.gitbook.io/hac-mini-guide/details/thunderbolt-3-fix-part-3#compariso
 									</dict>
 									<dict>
 										<key>LANGUAGE</key>
-										<string>Simplified Chinese</string>
+										<string>German</string>
 										<key>VALUE</key>
-										<string>可选的驱动补丁。只在你遇到特定问题时选中这些选项，因为它们可能会导致系统不稳定。</string>
+										<string>Optionale Patches zur Problemumgehung von Treiberproblemen. Installieren Sie nur, wenn Probleme auftreten, da diese die Systemstabilität beeinträchtigen können.</string>
 									</dict>
 									<dict>
 										<key>LANGUAGE</key>
@@ -16585,9 +17263,9 @@ https://osy.gitbook.io/hac-mini-guide/details/thunderbolt-3-fix-part-3#compariso
 									</dict>
 									<dict>
 										<key>LANGUAGE</key>
-										<string>German</string>
+										<string>Simplified Chinese</string>
 										<key>VALUE</key>
-										<string>Optionale Patches zur Problemumgehung von Treiberproblemen. Installieren Sie nur, wenn Probleme auftreten, da diese die Systemstabilität beeinträchtigen können.</string>
+										<string>可选的驱动补丁。只在你遇到特定问题时选中这些选项，因为它们可能会导致系统不稳定。</string>
 									</dict>
 								</array>
 								<key>OPTIONS</key>
@@ -16607,9 +17285,9 @@ https://osy.gitbook.io/hac-mini-guide/details/thunderbolt-3-fix-part-3#compariso
 									</dict>
 									<dict>
 										<key>LANGUAGE</key>
-										<string>Simplified Chinese</string>
+										<string>German</string>
 										<key>VALUE</key>
-										<string>可选补丁</string>
+										<string>Problemumgehungen</string>
 									</dict>
 									<dict>
 										<key>LANGUAGE</key>
@@ -16619,9 +17297,9 @@ https://osy.gitbook.io/hac-mini-guide/details/thunderbolt-3-fix-part-3#compariso
 									</dict>
 									<dict>
 										<key>LANGUAGE</key>
-										<string>German</string>
+										<string>Simplified Chinese</string>
 										<key>VALUE</key>
-										<string>Problemumgehungen</string>
+										<string>可选补丁</string>
 									</dict>
 								</array>
 								<key>TYPE</key>
@@ -16713,11 +17391,11 @@ https://osy.gitbook.io/hac-mini-guide/details/thunderbolt-3-fix-part-3#compariso
 					</dict>
 					<dict>
 						<key>LANGUAGE</key>
-						<string>Simplified Chinese</string>
+						<string>German</string>
 						<key>VALUE</key>
 						<dict>
 							<key>PATH</key>
-							<string>languages/zh-cn/introduction.rtfd</string>
+							<string>languages/de-de/introduction.rtfd</string>
 							<key>PATH_TYPE</key>
 							<integer>1</integer>
 						</dict>
@@ -16735,11 +17413,11 @@ https://osy.gitbook.io/hac-mini-guide/details/thunderbolt-3-fix-part-3#compariso
 					</dict>
 					<dict>
 						<key>LANGUAGE</key>
-						<string>German</string>
+						<string>Simplified Chinese</string>
 						<key>VALUE</key>
 						<dict>
 							<key>PATH</key>
-							<string>languages/de-de/introduction.rtfd</string>
+							<string>languages/zh-cn/introduction.rtfd</string>
 							<key>PATH_TYPE</key>
 							<integer>1</integer>
 						</dict>
@@ -16782,11 +17460,11 @@ https://osy.gitbook.io/hac-mini-guide/details/thunderbolt-3-fix-part-3#compariso
 					</dict>
 					<dict>
 						<key>LANGUAGE</key>
-						<string>Simplified Chinese</string>
+						<string>German</string>
 						<key>VALUE</key>
 						<dict>
 							<key>PATH</key>
-							<string>languages/zh-cn/readme.rtf</string>
+							<string>languages/de-de/readme.rtf</string>
 							<key>PATH_TYPE</key>
 							<integer>1</integer>
 						</dict>
@@ -16804,11 +17482,11 @@ https://osy.gitbook.io/hac-mini-guide/details/thunderbolt-3-fix-part-3#compariso
 					</dict>
 					<dict>
 						<key>LANGUAGE</key>
-						<string>German</string>
+						<string>Simplified Chinese</string>
 						<key>VALUE</key>
 						<dict>
 							<key>PATH</key>
-							<string>languages/de-de/readme.rtf</string>
+							<string>languages/zh-cn/readme.rtf</string>
 							<key>PATH_TYPE</key>
 							<integer>1</integer>
 						</dict>
@@ -16832,7 +17510,7 @@ https://osy.gitbook.io/hac-mini-guide/details/thunderbolt-3-fix-part-3#compariso
 					</dict>
 					<dict>
 						<key>LANGUAGE</key>
-						<string>Simplified Chinese</string>
+						<string>German</string>
 						<key>VALUE</key>
 						<string>HaC Mini</string>
 					</dict>
@@ -16844,7 +17522,7 @@ https://osy.gitbook.io/hac-mini-guide/details/thunderbolt-3-fix-part-3#compariso
 					</dict>
 					<dict>
 						<key>LANGUAGE</key>
-						<string>German</string>
+						<string>Simplified Chinese</string>
 						<key>VALUE</key>
 						<string>HaC Mini</string>
 					</dict>

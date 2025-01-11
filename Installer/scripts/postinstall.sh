@@ -83,6 +83,12 @@ if [ -f "$INSTALLER_TEMP/sonoma_wifi_fix" ]; then
     $PLIST_BUDDY -c "Add :NVRAM:Add:7C436110-AB2A-4BBB-A880-FE41995C9F82:csr-active-config integer 2051" "$NEW_CONFIG" #0x03080000
 fi
 
+if [ -f "$INSTALLER_TEMP/intel_sequoia_patch" ]; then
+    echo "A temp workaround for supporting intel wifi card in sequoia, by using both intel ventura kext and broadcom wifi patch"
+    $PLIST_BUDDY -c "Add :DeviceProperties:Add:PciRoot(0x0)/Pci(0x1C,0x2)/Pci(0x0,0x0) dict" "$NEW_CONFIG"
+    $PLIST_BUDDY -c "Add :DeviceProperties:Add:PciRoot(0x0)/Pci(0x1C,0x2)/Pci(0x0,0x0):IOName string pci14e4,43a0" "$NEW_CONFIG"
+fi
+
 if [ -f "$INSTALLER_TEMP/notrim" ]; then
     echo "Disabling TRIM on boot"
     $PLIST_BUDDY -c "Add :Kernel:Quirks:SetApfsTrimTimeout integer 0" "$NEW_CONFIG"
